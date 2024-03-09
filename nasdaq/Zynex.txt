@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-night-mode-clientpref-0 vector-toc-not-available" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Category:Companies listed on the Nasdaq - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-night-mode-clientpref-0 vector-toc-not-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"f8848c48-7086-457f-be04-34957ddd11e5","wgCanonicalNamespace":"Category","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":14,"wgPageName":"Category:Companies_listed_on_the_Nasdaq","wgTitle":"Companies listed on the Nasdaq","wgCurRevisionId":1052974615,"wgRevisionId":1052974615,"wgArticleId":4182385,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category link is on Wikidata","Template Category TOC via CatAutoTOC on category with 901–1200 pages","CatAutoTOC generates standard Category TOC","Nasdaq","Companies listed on Nasdaq exchanges","Companies by stock exchange","Publicly traded companies of the United States"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"Category:Companies_listed_on_the_Nasdaq","wgRelevantArticleId":4182385,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":400,"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q6762709","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList",
+"mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.action.styles":"ready","ext.categoryTree.styles":"ready","mediawiki.helplink":"ready","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.tmh.player.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.categoryTree","site","mediawiki.page.ready","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips",
+"ext.gadget.switcher","ext.tmh.player","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.client.vector-2022","ext.checkUser.clientHints"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.categoryTree.styles%7Cext.tmh.player.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.action.styles%7Cmediawiki.helplink%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022" rel="stylesheet"/>
+<meta content="MediaWiki 1.42.0-wmf.20" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Category:Companies listed on the Nasdaq - Wikipedia" property="og:title"/>
+<meta content="website" property="og:type"/>
+<link href="//upload.wikimedia.org" rel="preconnect"/>
+<link href="//en.m.wikipedia.org/wiki/Category:Companies_listed_on_the_Nasdaq" media="only screen and (max-width: 720px)" rel="alternate"/>
+<link href="/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="https://en.wikipedia.org/wiki/Category:Companies_listed_on_the_Nasdaq" rel="canonical"/>
+<link href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="license"/>
+<link href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" rel="alternate" title="Wikipedia Atom feed" type="application/atom+xml"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch">
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+</link></head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-14 ns-subject mw-editable page-Category_Companies_listed_on_the_Nasdaq rootpage-Category_Companies_listed_on_the_Nasdaq skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+<header class="vector-header mw-header">
+<div class="vector-header-start">
+<nav aria-label="Site" class="vector-main-menu-landmark" role="navigation">
+<div class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right" id="vector-main-menu-dropdown">
+<input aria-haspopup="true" aria-label="Main menu" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-vector-main-menu-dropdown" id="vector-main-menu-dropdown-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" for="vector-main-menu-dropdown-checkbox" id="vector-main-menu-dropdown-label"><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+<span class="vector-dropdown-label-text">Main menu</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-unpinned-container" id="vector-main-menu-unpinned-container">
+<div class="vector-main-menu vector-pinnable-element" id="vector-main-menu">
+<div class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned" data-feature-name="main-menu-pinned" data-pinnable-element-id="vector-main-menu" data-pinned-container-id="vector-main-menu-pinned-container" data-unpinned-container-id="vector-main-menu-unpinned-container">
+<div class="vector-pinnable-header-label">Main menu</div>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-navigation" id="p-navigation">
+<div class="vector-menu-heading">
+		Navigation
+	</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]"><span>Main page</span></a></li><li class="mw-list-item" id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Visit a randomly selected article [x]"><span>Random article</span></a></li><li class="mw-list-item" id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li class="mw-list-item" id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-interaction" id="p-interaction">
+<div class="vector-menu-heading">
+		Contribute
+	</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]"><span>Recent changes</span></a></li><li class="mw-list-item" id="n-upload"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+<div class="vector-main-menu-action-item">
+<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+<div class="vector-main-menu-action-content vector-menu-content">
+<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page.</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<a class="mw-logo" href="/wiki/Main_Page">
+<img alt="" aria-hidden="true" class="mw-logo-icon" height="50" src="/static/images/icons/wikipedia.png" width="50"/>
+<span class="mw-logo-container">
+<img alt="Wikipedia" class="mw-logo-wordmark" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;"/>
+<img alt="The Free Encyclopedia" class="mw-logo-tagline" height="13" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" style="width: 7.3125em; height: 0.8125em;" width="117"/>
+</span>
+</a>
+</div>
+<div class="vector-header-end">
+<div class="vector-search-box-vue vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<a accesskey="f" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" href="/wiki/Special:Search" id="" title="Search Wikipedia [f]"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+<span>Search</span>
+</a>
+<div class="vector-typeahead-search-container">
+<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+<form action="/w/index.php" class="cdx-search-input cdx-search-input--has-end-button" id="searchform">
+<div class="cdx-search-input__input-wrapper" data-search-loc="header-moved" id="simpleSearch">
+<div class="cdx-text-input cdx-text-input--has-start-icon">
+<input accesskey="f" aria-label="Search Wikipedia" autocapitalize="sentences" class="cdx-text-input__input" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+</div>
+<input name="title" type="hidden" value="Special:Search"/>
+</div>
+<button class="cdx-button cdx-search-input__end-button">Search</button>
+</form>
+</div>
+</div>
+</div>
+<nav aria-label="Personal tools" class="vector-user-links vector-user-links-wide" role="navigation">
+<div class="vector-user-links-main">
+<div class="vector-menu mw-portlet emptyPortlet" id="p-vector-user-menu-preferences">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet emptyPortlet" id="p-vector-user-menu-userpage">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</div>
+<nav aria-label="Appearance" class="vector-client-prefs-landmark">
+</nav>
+<div class="vector-menu mw-portlet emptyPortlet" id="p-vector-user-menu-notifications">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet" id="p-vector-user-menu-overflow">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="user-links-collapsible-item mw-list-item user-links-collapsible-item" id="pt-createaccount-2"><a class="" data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Category%3ACompanies+listed+on+the+Nasdaq&amp;returntoquery=pagefrom%3DZynex" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a>
+</li>
+<li class="user-links-collapsible-item mw-list-item user-links-collapsible-item" id="pt-login-2"><a accesskey="o" class="" data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Category%3ACompanies+listed+on+the+Nasdaq&amp;returntoquery=pagefrom%3DZynex" title="You're encouraged to log in; however, it's not mandatory. [o]"><span>Log in</span></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out" id="vector-user-links-dropdown" title="Log in and more options">
+<input aria-haspopup="true" aria-label="Personal tools" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-vector-user-links-dropdown" id="vector-user-links-dropdown-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" for="vector-user-links-dropdown-checkbox" id="vector-user-links-dropdown-label"><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+<span class="vector-dropdown-label-text">Personal tools</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item" id="p-personal" title="User menu">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="user-links-collapsible-item mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Category%3ACompanies+listed+on+the+Nasdaq&amp;returntoquery=pagefrom%3DZynex" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li class="user-links-collapsible-item mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Category%3ACompanies+listed+on+the+Nasdaq&amp;returntoquery=pagefrom%3DZynex" title="You're encouraged to log in; however, it's not mandatory. [o]"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor" id="p-user-menu-anon-editor">
+<div class="vector-menu-heading">
+		Pages for logged out editors <a aria-label="Learn more about editing" href="/wiki/Help:Introduction"><span>learn more</span></a>
+</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]"><span>Contributions</span></a></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]"><span>Talk</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</header>
+</div>
+<div class="mw-page-container">
+<div class="mw-page-container-inner">
+<div class="vector-sitenotice-container">
+<div id="siteNotice"><!-- CentralNotice --></div>
+</div>
+<div class="vector-column-start">
+<div class="vector-main-menu-container">
+<div id="mw-navigation">
+<nav aria-label="Site" class="vector-main-menu-landmark" id="mw-panel" role="navigation">
+<div class="vector-pinned-container" id="vector-main-menu-pinned-container">
+</div>
+</nav>
+</div>
+</div>
+</div>
+<div class="mw-content-container">
+<main class="mw-body" id="content" role="main">
+<header class="mw-body-header vector-page-titlebar">
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-namespace">Category</span><span class="mw-page-title-separator">:</span><span class="mw-page-title-main">Companies listed on the Nasdaq</span></h1>
+<div class="vector-dropdown mw-portlet mw-portlet-lang" id="p-lang-btn">
+<input aria-haspopup="true" aria-label="Go to an article in another language. Available in 51 languages" class="vector-dropdown-checkbox mw-interlanguage-selector" data-event-name="ui.dropdown-p-lang-btn" id="p-lang-btn-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-51" for="p-lang-btn-checkbox" id="p-lang-btn-label"><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+<span class="vector-dropdown-label-text">51 languages</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-ar mw-list-item"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D8%B4%D8%B1%D9%83%D8%A7%D8%AA_%D9%85%D8%AF%D8%B1%D8%AC%D8%A9_%D9%81%D9%8A_%D8%A8%D9%88%D8%B1%D8%B5%D8%A9_%D9%86%D8%A7%D8%B3%D8%AF%D8%A7%D9%83" hreflang="ar" lang="ar" title="تصنيف:شركات مدرجة في بورصة ناسداك – Arabic"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A7%80:%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A6%A1%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A7%87_%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%AD%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4_%E0%A6%95%E0%A7%8B%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF" hreflang="bn" lang="bn" title="বিষয়শ্রেণী:ন্যাসড্যাকে তালিকাভুক্ত কোম্পানি – Bangla"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/L%C5%ABi-pia%CC%8Dt:NASDAQ_chi%C5%AB%E2%81%BF-chh%C4%AB_kong-si" hreflang="nan" lang="nan" title="Lūi-pia̍t:NASDAQ chiūⁿ-chhī kong-si – Minnan"><span>Bân-lâm-gú</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D1%8D%D0%B3%D0%BE%D1%80%D1%8B%D1%8F:%D0%9A%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%96,_%D1%8F%D0%BA%D1%96%D1%8F_%D0%BC%D0%B0%D1%8E%D1%86%D1%8C_%D0%BB%D1%96%D1%81%D1%82%D1%8B%D0%BD%D0%B3_%D0%B0%D0%BA%D1%86%D1%8B%D0%B9_%D0%BD%D0%B0_NASDAQ" hreflang="be" lang="be" title="Катэгорыя:Кампаніі, якія маюць лістынг акцый на NASDAQ – Belarusian"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a class="interlanguage-link-target" href="https://be-tarask.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D1%8D%D0%B3%D0%BE%D1%80%D1%8B%D1%8F:%D0%9A%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%96_%D0%B7%D1%8C_%D0%BB%D1%96%D1%81%D1%82%D1%8B%D0%BD%D0%B3%D1%83_NASDAQ" hreflang="be-tarask" lang="be-tarask" title="Катэгорыя:Кампаніі зь лістынгу NASDAQ – Belarusian (Taraškievica orthography)"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8,_%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%B0%D0%BD%D0%B8_%D0%BD%D0%B0_NASDAQ" hreflang="bg" lang="bg" title="Категория:Компании, регистрирани на NASDAQ – Bulgarian"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Categoria:Empreses_que_cotitzen_al_NASDAQ" hreflang="ca" lang="ca" title="Categoria:Empreses que cotitzen al NASDAQ – Catalan"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Kategorie:Firmy_kotovan%C3%A9_na_burze_Nasdaq" hreflang="cs" lang="cs" title="Kategorie:Firmy kotované na burze Nasdaq – Czech"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Categori:Cwmn%C3%AFau_a_restrir_ar_NASDAQ" hreflang="cy" lang="cy" title="Categori:Cwmnïau a restrir ar NASDAQ – Welsh"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Kategori:Selskaber_noteret_p%C3%A5_NASDAQ" hreflang="da" lang="da" title="Kategori:Selskaber noteret på NASDAQ – Danish"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Categor%C3%ADa:Empresas_cotizadas_en_Nasdaq" hreflang="es" lang="es" title="Categoría:Empresas cotizadas en Nasdaq – Spanish"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Kategoria:Nasdaqeko_enpresak" hreflang="eu" lang="eu" title="Kategoria:Nasdaqeko enpresak – Basque"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B1%D8%AF%D9%87:%D8%B4%D8%B1%DA%A9%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%81%D9%87%D8%B1%D8%B3%D8%AA%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%AF%D8%B1_%D9%86%D8%B2%D8%AF%DA%A9" hreflang="fa" lang="fa" title="رده:شرکت‌های فهرست‌شده در نزدک – Persian"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Soci%C3%A9t%C3%A9_cot%C3%A9e_au_NASDAQ" hreflang="fr" lang="fr" title="Catégorie:Société cotée au NASDAQ – French"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%B6%84%EB%A5%98:%EB%82%98%EC%8A%A4%EB%8B%A5_%EC%83%81%EC%9E%A5_%EA%B8%B0%EC%97%85" hreflang="ko" lang="ko" title="분류:나스닥 상장 기업 – Korean"><span>한국어</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%BF%D5%A1%D5%BF%D5%A5%D5%A3%D5%B8%D6%80%D5%AB%D5%A1:%D5%86%D4%B1%D5%8D%D4%B4%D4%B1%D5%94-%D5%B8%D6%82%D5%B4_%D6%81%D5%B8%D6%82%D6%81%D5%A1%D5%AF%D5%BE%D5%A1%D5%AE_%D5%A8%D5%B6%D5%AF%D5%A5%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%D5%B6%D5%A5%D6%80" hreflang="hy" lang="hy" title="Կատեգորիա:ՆԱՍԴԱՔ-ում ցուցակված ընկերություններ – Armenian"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Kategori:Perusahaan_yang_diperdagangkan_di_Nasdaq" hreflang="id" lang="id" title="Kategori:Perusahaan yang diperdagangkan di Nasdaq – Indonesian"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Categoria:Aziende_quotate_al_NASDAQ" hreflang="it" lang="it" title="Categoria:Aziende quotate al NASDAQ – Italian"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A7%D7%98%D7%92%D7%95%D7%A8%D7%99%D7%94:%D7%97%D7%91%D7%A8%D7%95%D7%AA_%D7%94%D7%A0%D7%A1%D7%97%D7%A8%D7%95%D7%AA_%D7%91%D7%A0%D7%90%D7%A1%D7%93%22%D7%A7" hreflang="he" lang="he" title='קטגוריה:חברות הנסחרות בנאסד"ק – Hebrew'><span>עברית</span></a></li><li class="interlanguage-link interwiki-jv mw-list-item"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Kategori:Parusahan_sing_didagangak%C3%A9_ing_NASDAQ" hreflang="jv" lang="jv" title="Kategori:Parusahan sing didagangaké ing NASDAQ – Javanese"><span>Jawa</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%90%E1%83%A2%E1%83%94%E1%83%92%E1%83%9D%E1%83%A0%E1%83%98%E1%83%90:NASDAQ-%E1%83%96%E1%83%94_%E1%83%90%E1%83%A6%E1%83%A0%E1%83%98%E1%83%AA%E1%83%AE%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%99%E1%83%9D%E1%83%9B%E1%83%9E%E1%83%90%E1%83%9C%E1%83%98%E1%83%94%E1%83%91%E1%83%98" hreflang="ka" lang="ka" title="კატეგორია:NASDAQ-ზე აღრიცხული კომპანიები – Georgian"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%B0%D1%82:NASDAQ-%D1%82%D0%B0_%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%B3_%D0%B0%D0%BA%D1%86%D0%B8%D1%8F%D1%81%D1%8B_%D0%B1%D0%B0%D1%80_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%D0%BB%D0%B0%D1%80" hreflang="kk" lang="kk" title="Санат:NASDAQ-та листинг акциясы бар компаниялар – Kazakh"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Kategorija:Nasdaq_kot%C4%93tie_uz%C5%86%C4%93mumi" hreflang="lv" lang="lv" title="Kategorija:Nasdaq kotētie uzņēmumi – Latvian"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Kateg%C3%B3ria:NASDAQ-on_jegyzett_r%C3%A9szv%C3%A9nyt%C3%A1rsas%C3%A1gok" hreflang="hu" lang="hu" title="Kategória:NASDAQ-on jegyzett részvénytársaságok – Hungarian"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B5%BC%E0%B4%97%E0%B5%8D%E0%B4%97%E0%B4%82:NASDAQ%E0%B5%BD_%E0%B4%AA%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF%E0%B4%95%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%86%E0%B4%9F%E0%B5%81%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B4%BF%E0%B4%AF_%E0%B4%95%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B4%A8%E0%B4%BF%E0%B4%95%E0%B5%BE" hreflang="ml" lang="ml" title="വർഗ്ഗം:NASDAQൽ പട്ടികപ്പെടുത്തിയ കമ്പനികൾ – Malayalam"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-xmf mw-list-item"><a class="interlanguage-link-target" href="https://xmf.wikipedia.org/wiki/%E1%83%99%E1%83%90%E1%83%A2%E1%83%94%E1%83%92%E1%83%9D%E1%83%A0%E1%83%98%E1%83%90:NASDAQ-%E1%83%A1_%E1%83%94%E1%83%AD%E1%83%90%E1%83%A0%E1%83%98%E1%83%9A%E1%83%98_%E1%83%99%E1%83%9D%E1%83%9B%E1%83%9E%E1%83%90%E1%83%9C%E1%83%98%E1%83%94%E1%83%A4%E1%83%98" hreflang="xmf" lang="xmf" title="კატეგორია:NASDAQ-ს ეჭარილი კომპანიეფი – Mingrelian"><span>მარგალური</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Kategori:Syarikat_tersenarai_di_NASDAQ" hreflang="ms" lang="ms" title="Kategori:Syarikat tersenarai di NASDAQ – Malay"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Categorie:Bedrijf_genoteerd_aan_de_NASDAQ" hreflang="nl" lang="nl" title="Categorie:Bedrijf genoteerd aan de NASDAQ – Dutch"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/Category:NASDAQ%E4%B8%8A%E5%A0%B4%E4%BC%81%E6%A5%AD" hreflang="ja" lang="ja" title="Category:NASDAQ上場企業 – Japanese"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Kategori:Selskaper_notert_p%C3%A5_NASDAQ" hreflang="nb" lang="nb" title="Kategori:Selskaper notert på NASDAQ – Norwegian Bokmål"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Categoria:Societat_quotada_al_NASDAQ" hreflang="oc" lang="oc" title="Categoria:Societat quotada al NASDAQ – Occitan"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Kategoria:Sp%C3%B3%C5%82ki_notowane_na_NASDAQ" hreflang="pl" lang="pl" title="Kategoria:Spółki notowane na NASDAQ – Polish"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Categoria:Empresas_listadas_na_NASDAQ" hreflang="pt" lang="pt" title="Categoria:Empresas listadas na NASDAQ – Portuguese"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Categorie:Companii_listate_la_bursa_NASDAQ" hreflang="ro" lang="ro" title="Categorie:Companii listate la bursa NASDAQ – Romanian"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8,_%D0%B8%D0%BC%D0%B5%D1%8E%D1%89%D0%B8%D0%B5_%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%B3_%D0%B0%D0%BA%D1%86%D0%B8%D0%B9_%D0%BD%D0%B0_NASDAQ" hreflang="ru" lang="ru" title="Категория:Компании, имеющие листинг акций на NASDAQ – Russian"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sco mw-list-item"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Category:Companies_leetit_on_NASDAQ" hreflang="sco" lang="sco" title="Category:Companies leetit on NASDAQ – Scots"><span>Scots</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Category:Companies_listed_on_NASDAQ" hreflang="en-simple" lang="en-simple" title="Category:Companies listed on NASDAQ – Simple English"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D9%BE%DB%86%D9%84:%D8%AF%D8%A7%D9%85%DB%95%D8%B2%D8%B1%D8%A7%D9%88%DB%95%DA%A9%D8%A7%D9%86%DB%8C_%DA%A9%D8%A7%D9%84%DB%8C%D9%81%DB%86%D8%B1%D9%86%DB%8C%D8%A7_%D9%84%DB%95_%D9%A1%D9%A9%D9%A9%D9%A7" hreflang="ckb" lang="ckb" title="پۆل:دامەزراوەکانی کالیفۆرنیا لە ١٩٩٧ – Central Kurdish"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%98%D0%B0:%D0%9F%D1%80%D0%B5%D0%B4%D1%83%D0%B7%D0%B5%D1%9B%D0%B0_%D0%BD%D0%B0_%D0%9D%D0%B0%D1%81%D0%B4%D0%B0%D0%BA%D1%83" hreflang="sr" lang="sr" title="Категорија:Предузећа на Насдаку – Serbian"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Kategorija:Kompanije_na_listi_NASDAQ" hreflang="sh" lang="sh" title="Kategorija:Kompanije na listi NASDAQ – Serbo-Croatian"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Kategori:F%C3%B6retag_listade_p%C3%A5_Nasdaq" hreflang="sv" lang="sv" title="Kategori:Företag listade på Nasdaq – Swedish"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Kategorya:Mga_kumpanyang_kinakalakal_sa_NASDAQ" hreflang="tl" lang="tl" title="Kategorya:Mga kumpanyang kinakalakal sa NASDAQ – Tagalog"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%95%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81:%E0%AE%A8%E0%AE%BE%E0%AE%9A%E0%AF%81%E0%AE%9F%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AF%8D_%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AE%9F%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%B3%E0%AF%8D%E0%AE%B3_%E0%AE%A8%E0%AE%BF%E0%AE%B1%E0%AF%81%E0%AE%B5%E0%AE%A9%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D" hreflang="ta" lang="ta" title="பகுப்பு:நாசுடாக்கில் பட்டியிலடப்பட்டுள்ள நிறுவனங்கள் – Tamil"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B1%E0%B8%97%E0%B8%88%E0%B8%94%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B9%81%E0%B8%99%E0%B8%AA%E0%B9%81%E0%B8%94%E0%B9%87%E0%B8%81" hreflang="th" lang="th" title="หมวดหมู่:บริษัทจดทะเบียนในตลาดหลักทรัพย์แนสแด็ก – Thai"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Kategori:NASDAQ%27daki_%C5%9Firketler" hreflang="tr" lang="tr" title="Kategori:NASDAQ'daki şirketler – Turkish"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%97_%D0%B7_%D0%BB%D1%96%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D0%B0_NASDAQ" hreflang="uk" lang="uk" title="Категорія:Компанії з лістинга NASDAQ – Ukrainian"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%B2%D9%85%D8%B1%DB%81:%D9%86%DB%8C%D8%B2%D8%AF%DA%A9_%D9%85%DB%8C%DA%BA_%D9%81%DB%81%D8%B1%D8%B3%D8%AA_%D8%B4%D8%AF%DB%81_%DA%A9%D9%85%D9%BE%D9%86%DB%8C%D8%A7%DA%BA" hreflang="ur" lang="ur" title="زمرہ:نیزدک میں فہرست شدہ کمپنیاں – Urdu"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vec mw-list-item"><a class="interlanguage-link-target" href="https://vec.wikipedia.org/wiki/Categoria:Dite_cuotae_al_NASDAQ" hreflang="vec" lang="vec" title="Categoria:Dite cuotae al NASDAQ – Venetian"><span>Vèneto</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:C%C3%B4ng_ty_%C4%91%C6%B0%E1%BB%A3c_ni%C3%AAm_y%E1%BA%BFt_tr%C3%AAn_NASDAQ" hreflang="vi" lang="vi" title="Thể loại:Công ty được niêm yết trên NASDAQ – Vietnamese"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/Category:Nasdaq%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8" hreflang="yue" lang="yue" title="Category:Nasdaq上市公司 – Cantonese"><span>粵語</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/Category:%E7%B4%8D%E6%96%AF%E9%81%94%E5%85%8B%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8" hreflang="zh" lang="zh" title="Category:納斯達克上市公司 – Chinese"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6762709#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>
+</div>
+</div>
+</div>
+</header>
+<div class="vector-page-toolbar">
+<div class="vector-page-toolbar-container">
+<div id="left-navigation">
+<nav aria-label="Namespaces">
+<div class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages" id="p-associated-pages">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected vector-tab-noicon mw-list-item" id="ca-nstab-category"><a accesskey="c" href="/wiki/Category:Companies_listed_on_the_Nasdaq" title="View the category page [c]"><span>Category</span></a></li><li class="vector-tab-noicon mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/Category_talk:Companies_listed_on_the_Nasdaq" rel="discussion" title="Discuss improvements to the content page [t]"><span>Talk</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-dropdown emptyPortlet" id="p-variants">
+<input aria-haspopup="true" aria-label="Change language variant" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" for="p-variants-checkbox" id="p-variants-label"><span class="vector-dropdown-label-text">English</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-menu mw-portlet mw-portlet-variants emptyPortlet" id="p-variants">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<div class="vector-collapsible" id="right-navigation">
+<nav aria-label="Views">
+<div class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views" id="p-views">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected vector-tab-noicon mw-list-item" id="ca-view"><a href="/wiki/Category:Companies_listed_on_the_Nasdaq"><span>Read</span></a></li><li class="vector-tab-noicon mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;action=edit" title="Edit this page [e]"><span>Edit</span></a></li><li class="vector-tab-noicon mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;action=history" title="Past revisions of this page [h]"><span>View history</span></a></li>
+</ul>
+</div>
+</div>
+</nav>
+<nav aria-label="Page tools" class="vector-page-tools-landmark">
+<div class="vector-dropdown vector-page-tools-dropdown" id="vector-page-tools-dropdown">
+<input aria-haspopup="true" aria-label="Tools" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-vector-page-tools-dropdown" id="vector-page-tools-dropdown-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" for="vector-page-tools-dropdown-checkbox" id="vector-page-tools-dropdown-label"><span class="vector-dropdown-label-text">Tools</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-unpinned-container" id="vector-page-tools-unpinned-container">
+<div class="vector-page-tools vector-pinnable-element" id="vector-page-tools">
+<div class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned" data-feature-name="page-tools-pinned" data-pinnable-element-id="vector-page-tools" data-pinned-container-id="vector-page-tools-pinned-container" data-unpinned-container-id="vector-page-tools-unpinned-container">
+<div class="vector-pinnable-header-label">Tools</div>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items" id="p-cactions" title="More options">
+<div class="vector-menu-heading">
+		Actions
+	</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected vector-more-collapsible-item mw-list-item" id="ca-more-view"><a href="/wiki/Category:Companies_listed_on_the_Nasdaq"><span>Read</span></a></li><li class="vector-more-collapsible-item mw-list-item" id="ca-more-edit"><a accesskey="e" href="/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;action=edit" title="Edit this page [e]"><span>Edit</span></a></li><li class="vector-more-collapsible-item mw-list-item" id="ca-more-history"><a href="/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;action=history"><span>View history</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-tb" id="p-tb">
+<div class="vector-menu-heading">
+		General
+	</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Category:Companies_listed_on_the_Nasdaq" title="List of all English Wikipedia pages containing links to this page [j]"><span>What links here</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Category:Companies_listed_on_the_Nasdaq" rel="nofollow" title="Recent changes in pages linked from this page [k]"><span>Related changes</span></a></li><li class="mw-list-item" id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]"><span>Upload file</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]"><span>Special pages</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;oldid=1052974615" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DCategory%3ACompanies_listed_on_the_Nasdaq%26pagefrom%3DZynex"><span>Get shortened URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DCategory%3ACompanies_listed_on_the_Nasdaq%26pagefrom%3DZynex"><span>Download QR code</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6762709" title="Structured data on this page hosted by Wikidata [g]"><span>Wikidata item</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-coll-print_export" id="p-coll-print_export">
+<div class="vector-menu-heading">
+		Print/export
+	</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Category%3ACompanies_listed_on_the_Nasdaq&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;printable=yes" title="Printable version of this page [p]"><span>Printable version</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects" id="p-wikibase-otherprojects">
+<div class="vector-menu-heading">
+		In other projects
+	</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Companies_listed_on_NASDAQ" hreflang="en"><span>Wikimedia Commons</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+<div class="vector-column-end">
+<div class="vector-sticky-pinned-container">
+<nav aria-label="Page tools" class="vector-page-tools-landmark">
+<div class="vector-pinned-container" id="vector-page-tools-pinned-container">
+</div>
+</nav>
+<nav aria-label="Appearance" class="vector-client-prefs-landmark">
+</nav>
+</div>
+</div>
+<div aria-labelledby="firstHeading" class="vector-body" data-mw-ve-target-container="" id="bodyContent">
+<div class="vector-body-before-content">
+<div class="mw-indicators">
+<div class="mw-indicator" id="mw-indicator-mw-helplink"><a class="mw-helplink" href="/wiki/Help:Category" target="_blank">Help</a></div>
+</div>
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+</div>
+<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><style data-mw-deduplicate="TemplateStyles:r1134653256">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox"><style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style>
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="1376" data-file-width="1024" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></span></span></div>
+<div class="side-box-text plainlist">Wikimedia Commons has media related to <span style="font-weight: bold; font-style: italic;"><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Companies_listed_on_NASDAQ" title="commons:Category:Companies listed on NASDAQ">Companies listed on NASDAQ</a></span>.</div></div>
+</div>
+<p>Companies that listed their shares on the <a href="/wiki/Nasdaq" title="Nasdaq">Nasdaq</a> stock exchange, including <a href="/wiki/Nasdaq,_Inc." title="Nasdaq, Inc.">the eponymous company</a>.
+</p>
+<div style="display:block; margin-top: 1em; padding-right: 2em"><style data-mw-deduplicate="TemplateStyles:r1111373058">.mw-parser-output .toc-top-false-title{font-weight:bold;text-align:center}.mw-parser-output .toc-top .hlist ul{text-align:inherit}@media all and (min-width:720px){.mw-parser-output .toc-top{clear:left}.mw-parser-output .toc-top-left{float:left}.mw-parser-output .toc-top-right{float:right;clear:right}.mw-parser-output .toc-top-center{margin:auto;clear:none}}body.skin-vector-2022 .mw-parser-output .toc-top{padding:7px}body.skin-vector-2022 .mw-parser-output .toc-top #toc-title-text{border-bottom:0;margin-top:0;font-weight:bold;text-align:center}</style><div aria-labelledby="toc-title-text-template" class="toc plainlinks toc-top toc-top-left" id="toc" role="navigation">
+<div class="toctitle"><h2 id="toc-title-text"><span class="mw-headline" id="Contents">Contents </span></h2></div>
+<style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist">
+<ul><li><a class="external text" href="https://en.wikipedia.org/wiki/Category:Companies_listed_on_the_Nasdaq">Top</a></li>
+<li><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=0">0–9</a></li>
+<li><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=A">A</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=B">B</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=C">C</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=D">D</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=E">E</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=F">F</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=G">G</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=H">H</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=I">I</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=J">J</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=K">K</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=L">L</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=M">M</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=N">N</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=O">O</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=P">P</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=Q">Q</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=R">R</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=S">S</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=T">T</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=U">U</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=V">V</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=W">W</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=X">X</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=Y">Y</a> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;from=Z">Z</a></li></ul>
+</div></div></div><div class="" style="clear:both;"></div>
+<!-- 
+NewPP limit report
+Parsed by mw1409
+Cached time: 20240303030248
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [no‐toc]
+CPU time usage: 0.087 seconds
+Real time usage: 0.125 seconds
+Preprocessor visited node count: 447/1000000
+Post‐expand include size: 31852/2097152 bytes
+Template argument size: 3704/2097152 bytes
+Highest expansion depth: 24/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4246/5000000 bytes
+Lua time usage: 0.023/10.000 seconds
+Lua memory usage: 1068223/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  112.178      1 -total
+ 51.07%   57.288      1 Template:Commons_category
+ 49.57%   55.612      1 Template:Sister_project
+ 48.85%   54.797      1 Template:CatAutoTOC
+ 48.13%   53.993      1 Template:Side_box
+ 48.04%   53.885      2 Template:Category_other
+ 44.86%   50.328      1 Template:CatAutoTOC/core
+ 39.00%   43.747      1 Template:Category_TOC
+ 31.71%   35.574      1 Template:TOC_top
+ 24.11%   27.044      1 Template:Flatlist
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4182385-0!canonical and timestamp 20240303030248 and revision id 1052974615. Rendering was triggered because: page-view
+ -->
+</div><div class="mw-category-generated" dir="ltr" lang="en"><div id="mw-subcategories">
+<h2>Subcategories</h2>
+<p>This category has the following 26 subcategories, out of 26 total.
+</p><div class="mw-content-ltr" dir="ltr" lang="en"><div class="mw-category mw-category-columns"><div class="mw-category-group"><h3> </h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><a aria-expanded="false" class="CategoryTreeToggle" data-ct-title="Companies_formerly_listed_on_the_Nasdaq"></a> </span> <a href="/wiki/Category:Companies_formerly_listed_on_the_Nasdaq" title="Category:Companies formerly listed on the Nasdaq">Companies formerly listed on the Nasdaq</a>‎ <span dir="ltr" title="Contains 6 subcategories, 792 pages, and 0 files">(6 C, 792 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet"></span> <a href="/wiki/Category:Companies_in_the_Nasdaq-100" title="Category:Companies in the Nasdaq-100">Companies in the Nasdaq-100</a>‎ <span dir="ltr" title="Contains 0 subcategories, 101 pages, and 0 files">(101 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet"></span> <a href="/wiki/Category:Companies_in_the_NASDAQ_Financial-100" title="Category:Companies in the NASDAQ Financial-100">Companies in the NASDAQ Financial-100</a>‎ <span dir="ltr" title="Contains 0 subcategories, 74 pages, and 0 files">(74 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>A</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet"></span> <a href="/wiki/Category:Amdocs" title="Category:Amdocs">Amdocs</a>‎ <span dir="ltr" title="Contains 0 subcategories, 8 pages, and 0 files">(8 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet"></span> <a href="/wiki/Category:American_Electric_Power" title="Category:American Electric Power">American Electric Power</a>‎ <span dir="ltr" title="Contains 0 subcategories, 30 pages, and 0 files">(30 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet"></span> <a href="/wiki/Category:Avis_Budget_Group" title="Category:Avis Budget Group">Avis Budget Group</a>‎ <span dir="ltr" title="Contains 0 subcategories, 10 pages, and 0 files">(10 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>C</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><a aria-expanded="false" class="CategoryTreeToggle" data-ct-title="Comcast"></a> </span> <a href="/wiki/Category:Comcast" title="Category:Comcast">Comcast</a>‎ <span dir="ltr" title="Contains 4 subcategories, 33 pages, and 0 files">(4 C, 33 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><a aria-expanded="false" class="CategoryTreeToggle" data-ct-title="Costco"></a> </span> <a href="/wiki/Category:Costco" title="Category:Costco">Costco</a>‎ <span dir="ltr" title="Contains 1 subcategory, 7 pages, and 0 files">(1 C, 7 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>F</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet"></span> <a href="/wiki/Category:Fossil_Group" title="Category:Fossil Group">Fossil Group</a>‎ <span dir="ltr" title="Contains 0 subcategories, 6 pages, and 2 files">(6 P, 2 F)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>H</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet"></span> <a href="/wiki/Category:Harrah%27s_Entertainment" title="Category:Harrah's Entertainment">Harrah's Entertainment</a>‎ <span dir="ltr" title="Contains 0 subcategories, 22 pages, and 0 files">(22 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>L</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><a aria-expanded="false" class="CategoryTreeToggle" data-ct-title="Logitech"></a> </span> <a href="/wiki/Category:Logitech" title="Category:Logitech">Logitech</a>‎ <span dir="ltr" title="Contains 2 subcategories, 12 pages, and 1 file">(2 C, 12 P, 1 F)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>M</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><a aria-expanded="false" class="CategoryTreeToggle" data-ct-title="Meta_Platforms"></a> </span> <a href="/wiki/Category:Meta_Platforms" title="Category:Meta Platforms">Meta Platforms</a>‎ <span dir="ltr" title="Contains 4 subcategories, 8 pages, and 0 files">(4 C, 8 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>N</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><a aria-expanded="false" class="CategoryTreeToggle" data-ct-title="Netflix"></a> </span> <a href="/wiki/Category:Netflix" title="Category:Netflix">Netflix</a>‎ <span dir="ltr" title="Contains 7 subcategories, 27 pages, and 0 files">(7 C, 27 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet"></span> <a href="/wiki/Category:Netgear" title="Category:Netgear">Netgear</a>‎ <span dir="ltr" title="Contains 0 subcategories, 11 pages, and 0 files">(11 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><a aria-expanded="false" class="CategoryTreeToggle" data-ct-title="Nvidia"></a> </span> <a href="/wiki/Category:Nvidia" title="Category:Nvidia">Nvidia</a>‎ <span dir="ltr" title="Contains 2 subcategories, 33 pages, and 0 files">(2 C, 33 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>P</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><a aria-expanded="false" class="CategoryTreeToggle" data-ct-title="Paramount_Global"></a> </span> <a href="/wiki/Category:Paramount_Global" title="Category:Paramount Global">Paramount Global</a>‎ <span dir="ltr" title="Contains 8 subcategories, 24 pages, and 0 files">(8 C, 24 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><a aria-expanded="false" class="CategoryTreeToggle" data-ct-title="PepsiCo"></a> </span> <a href="/wiki/Category:PepsiCo" title="Category:PepsiCo">PepsiCo</a>‎ <span dir="ltr" title="Contains 6 subcategories, 30 pages, and 8 files">(6 C, 30 P, 8 F)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>R</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet"></span> <a href="/wiki/Category:Robinhood_(company)" title="Category:Robinhood (company)">Robinhood (company)</a>‎ <span dir="ltr" title="Contains 0 subcategories, 6 pages, and 0 files">(6 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>S</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><a aria-expanded="false" class="CategoryTreeToggle" data-ct-title="Scholastic_Corporation"></a> </span> <a href="/wiki/Category:Scholastic_Corporation" title="Category:Scholastic Corporation">Scholastic Corporation</a>‎ <span dir="ltr" title="Contains 6 subcategories, 19 pages, and 1 file">(6 C, 19 P, 1 F)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>T</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet"></span> <a href="/wiki/Category:Tucows" title="Category:Tucows">Tucows</a>‎ <span dir="ltr" title="Contains 0 subcategories, 6 pages, and 0 files">(6 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>V</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet"></span> <a href="/wiki/Category:Vimeo" title="Category:Vimeo">Vimeo</a>‎ <span dir="ltr" title="Contains 0 subcategories, 7 pages, and 0 files">(7 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>W</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet"></span> <a href="/wiki/Category:Walgreens_Boots_Alliance" title="Category:Walgreens Boots Alliance">Walgreens Boots Alliance</a>‎ <span dir="ltr" title="Contains 0 subcategories, 18 pages, and 0 files">(18 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><a aria-expanded="false" class="CategoryTreeToggle" data-ct-title="Warner_Bros._Discovery"></a> </span> <a href="/wiki/Category:Warner_Bros._Discovery" title="Category:Warner Bros. Discovery">Warner Bros. Discovery</a>‎ <span dir="ltr" title="Contains 9 subcategories, 22 pages, and 0 files">(9 C, 22 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><a aria-expanded="false" class="CategoryTreeToggle" data-ct-title="Warner_Music_Group"></a> </span> <a href="/wiki/Category:Warner_Music_Group" title="Category:Warner Music Group">Warner Music Group</a>‎ <span dir="ltr" title="Contains 5 subcategories, 17 pages, and 0 files">(5 C, 17 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li>
+<li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><a aria-expanded="false" class="CategoryTreeToggle" data-ct-title="Western_Digital"></a> </span> <a href="/wiki/Category:Western_Digital" title="Category:Western Digital">Western Digital</a>‎ <span dir="ltr" title="Contains 3 subcategories, 9 pages, and 0 files">(3 C, 9 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div><div class="mw-category-group"><h3>X</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><a aria-expanded="false" class="CategoryTreeToggle" data-ct-title="Xperi"></a> </span> <a href="/wiki/Category:Xperi" title="Category:Xperi">Xperi</a>‎ <span dir="ltr" title="Contains 2 subcategories, 5 pages, and 0 files">(2 C, 5 P)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div></div></div>
+</div><div id="mw-pages">
+<h2><span class="anchor" id="Pages_in_category"></span>Pages in category "Companies listed on the Nasdaq"</h2>
+<p>The following page is in this category, out of approximately 1,109 total. <a href="/wiki/Wikipedia:FAQ/Categorization#Why_might_a_category_list_not_be_up_to_date?" title="Wikipedia:FAQ/Categorization">This list may not reflect recent changes</a>.
+</p>(<a href="/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;pageuntil=Zynex#mw-pages" title="Category:Companies listed on the Nasdaq">previous page</a>) (next page)<div class="mw-content-ltr" dir="ltr" lang="en"><div class="mw-category"><div class="mw-category-group"><h3>Z</h3>
+<ul><li><a href="/wiki/Zynex" title="Zynex">Zynex</a></li></ul></div></div></div>(<a href="/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;pageuntil=Zynex#mw-pages" title="Category:Companies listed on the Nasdaq">previous page</a>) (next page)
+</div></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img alt="" height="1" src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" width="1"/></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;oldid=1052974615">https://en.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;oldid=1052974615</a>"</div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Nasdaq" title="Category:Nasdaq">Nasdaq</a></li><li><a href="/wiki/Category:Companies_listed_on_Nasdaq_exchanges" title="Category:Companies listed on Nasdaq exchanges">Companies listed on Nasdaq exchanges</a></li><li><a href="/wiki/Category:Companies_by_stock_exchange" title="Category:Companies by stock exchange">Companies by stock exchange</a></li><li><a href="/wiki/Category:Publicly_traded_companies_of_the_United_States" title="Category:Publicly traded companies of the United States">Publicly traded companies of the United States</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-ns-shown" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Template_Category_TOC_via_CatAutoTOC_on_category_with_901%E2%80%931200_pages" title="Category:Template Category TOC via CatAutoTOC on category with 901–1200 pages">Template Category TOC via CatAutoTOC on category with 901–1200 pages</a></li><li><a href="/wiki/Category:CatAutoTOC_generates_standard_Category_TOC" title="Category:CatAutoTOC generates standard Category TOC">CatAutoTOC generates standard Category TOC</a></li></ul></div></div>
+</div>
+</main>
+</div>
+<div class="mw-footer-container">
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 1 November 2021, at 04:58<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" rel="license">Creative Commons Attribution-ShareAlike License 4.0</a><a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Category:Companies_listed_on_the_Nasdaq&amp;pagefrom=Zynex&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+</div>
+</div>
+</div>
+<div class="vector-settings" id="p-dock-bottom">
+<ul>
+<li>
+<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+<span>Toggle limited content width</span>
+</button>
+</li>
+</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1415","wgBackendResponseTime":177,"wgPageParseReport":{"limitreport":{"cputime":"0.087","walltime":"0.125","ppvisitednodes":{"value":447,"limit":1000000},"postexpandincludesize":{"value":31852,"limit":2097152},"templateargumentsize":{"value":3704,"limit":2097152},"expansiondepth":{"value":24,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4246,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  112.178      1 -total"," 51.07%   57.288      1 Template:Commons_category"," 49.57%   55.612      1 Template:Sister_project"," 48.85%   54.797      1 Template:CatAutoTOC"," 48.13%   53.993      1 Template:Side_box"," 48.04%   53.885      2 Template:Category_other"," 44.86%   50.328      1 Template:CatAutoTOC/core"," 39.00%   43.747      1 Template:Category_TOC"," 31.71%   35.574      1 Template:TOC_top"," 24.11%   27.044      1 Template:Flatlist"]},"scribunto":{"limitreport-timeusage":{"value":"0.023","limit":"10.000"},"limitreport-memusage":{"value":1068223,"limit":52428800}},"cachereport":{"origin":"mw1409","timestamp":"20240303030248","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

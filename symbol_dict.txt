@@ -1,0 +1,2200 @@
+{
+
+'LDI': {
+'name': 'loanDepot
+, Inc.'
+, 'url': None}
+
+, 'LOOP': {
+'name': 'Loop Industries
+, Inc.'
+, 'url': None}
+
+, 'FORG': {
+'name': 'ForgeRock
+, Inc.'
+, 'url': None}
+
+, 'COUR': {
+'name': 'Coursera
+, Inc.'
+, 'url': None}
+
+, 'FUSB': {
+'name': 'First US Bancshares
+, Inc.'
+, 'url': None}
+
+, 'ETD': {
+'name': 'Ethan Allen Interiors Inc.'
+, 'url': None}
+
+, 'ALKT': {
+'name': 'Alkami Technology
+, Inc.'
+, 'url': None}
+
+, 'KVYO': {
+'name': 'Klaviyo
+, Inc.'
+, 'url': None}
+
+, 'FMAO': {
+'name': 'Farmers & Merchants Bancorp
+, Inc.'
+, 'url': None}
+
+, 'BELFA': {
+'name': 'Bel Fuse Inc.'
+, 'url': None}
+
+, 'HIBB': {
+'name': 'Hibbett
+, Inc.'
+, 'url': None}
+
+, 'HLLY': {
+'name': 'Holley Inc.'
+, 'url': None}
+
+, 'ALC': {
+'name': 'Alcon Inc.'
+, 'url': None}
+
+, 'PAGP': {
+'name': 'Plains GP Holdings
+, L.P.'
+, 'url': None}
+
+, 'SYNH': {
+'name': 'Syneos Health
+, Inc.'
+, 'url': None}
+
+, 'GLOB': {
+'name': 'Globant S.A.'
+, 'url': None}
+
+, 'ERIE': {
+'name': 'Erie Indemnity Company'
+, 'url': None}
+
+, 'SNAP': {
+'name': 'Snap Inc.'
+, 'url': None}
+
+, 'MSM': {
+'name': 'MSC Industrial Direct Co.
+, Inc.'
+, 'url': None}
+
+, 'NUS': {
+'name': 'Nu Skin Enterprises
+, Inc.'
+, 'url': None}
+
+, 'DBI': {
+'name': 'Designer Brands Inc.'
+, 'url': None}
+
+, 'IQV': {
+'name': 'IQVIA Holdings Inc.'
+, 'url': None}
+
+, 'DGNU': {
+'name': 'Dragoneer Growth Opportunities Corp. III'
+, 'url': None}
+
+, 'BRDS': {
+'name': 'Bird Global
+, Inc.'
+, 'url': None}
+
+, 'CPSI': {
+'name': 'Computer Programs and Systems
+, Inc.'
+, 'url': None}
+
+, 'BURL': {
+'name': 'Burlington Stores
+, Inc.'
+, 'url': None}
+
+, 'CHPT': {
+'name': 'ChargePoint Holdings
+, Inc.'
+, 'url': None}
+
+, 'HURN': {
+'name': 'Huron Consulting Group Inc.'
+, 'url': None}
+
+, 'NRG': {
+'name': 'NRG Energy
+, Inc.'
+, 'url': None}
+
+, 'LGO': {
+'name': 'Largo Inc.'
+, 'url': None}
+
+, 'GATX': {
+'name': 'GATX Corporation'
+, 'url': None}
+
+, 'CNEY': {
+'name': 'CN Energy Group. Inc.'
+, 'url': None}
+
+, 'SNPO': {
+'name': 'Snap One Holdings Corp.'
+, 'url': None}
+
+, 'WISH': {
+'name': 'ContextLogic Inc.'
+, 'url': None}
+
+, 'TSRI': {
+'name': 'TSR
+, Inc.'
+, 'url': None}
+
+, 'GHM': {
+'name': 'Graham Corporation'
+, 'url': None}
+
+, 'SQSP': {
+'name': 'Squarespace
+, Inc.'
+, 'url': None}
+
+, 'WTI': {
+'name': 'W&T Offshore
+, Inc.'
+, 'url': None}
+
+, 'BRK': {
+'name': None
+, 'url': None}
+
+, 'AMPL': {
+'name': 'Amplitude
+, Inc.'
+, 'url': None}
+
+, 'SHAK': {
+'name': 'Shake Shack Inc.'
+, 'url': None}
+
+, 'EPC': {
+'name': 'Edgewell Personal Care Company'
+, 'url': None}
+
+, 'SPOT': {
+'name': 'Spotify Technology S.A.'
+, 'url': None}
+
+, 'BIO': {
+'name': 'Bio-Rad Laboratories
+, Inc.'
+, 'url': None}
+
+, 'MATX': {
+'name': 'Matson
+, Inc.'
+, 'url': None}
+
+, 'GETY': {
+'name': 'Getty Images Holdings
+, Inc.'
+, 'url': None}
+
+, 'GOGO': {
+'name': 'Gogo Inc.'
+, 'url': None}
+
+, 'GLRE': {
+'name': 'Greenlight Capital Re
+, Ltd.'
+, 'url': None}
+
+, 'PFL': {
+'name': 'PIMCO Income Strategy Fund'
+, 'url': None}
+
+, 'KRO': {
+'name': 'KRONOS Worldwide'
+, 'url': None}
+
+, 'LHX': {
+'name': 'L3Harris Technologies
+, Inc.'
+, 'url': None}
+
+, 'JWN': {
+'name': 'Nordstrom
+, Inc.'
+, 'url': None}
+
+, 'TLF': {
+'name': 'Tandy Leather Factory
+, Inc.'
+, 'url': None}
+
+, 'AS': {
+'name': 'Amer Sports
+, Inc.'
+, 'url': None}
+
+, 'FLUT': {
+'name': 'Flutter Entertainment plc'
+, 'url': None}
+
+, 'EDR': {
+'name': 'Education Realty Trust
+, Inc.'
+, 'url': None}
+
+, 'BHIL': {
+'name': 'Benson Hill
+, Inc.'
+, 'url': None}
+
+, 'NSTG': {
+'name': 'NanoString Technologies
+, Inc.'
+, 'url': None}
+
+, 'MDB': {
+'name': 'MongoDB
+, Inc.'
+, 'url': None}
+
+, 'BLDE': {
+'name': 'Blade Air Mobility
+, Inc.'
+, 'url': None}
+
+, 'STLA': {
+'name': 'Stellantis N.V.'
+, 'url': None}
+
+, 'FTS': {
+'name': 'Fortis Inc.'
+, 'url': None}
+
+, 'FOXF': {
+'name': 'Fox Factory Holding Corp.'
+, 'url': None}
+
+, 'ARCB': {
+'name': 'ArcBest Corporation'
+, 'url': None}
+
+, 'CPNG': {
+'name': 'Coupang
+, Inc.'
+, 'url': None}
+
+, 'COR': {
+'name': 'Cencora'
+, 'url': None}
+
+, 'WIRE': {
+'name': 'Encore Wire Corporation'
+, 'url': None}
+
+, 'PJT': {
+'name': 'PJT Partners Inc.'
+, 'url': None}
+
+, 'YTRA': {
+'name': 'Yatra Online
+, Inc.'
+, 'url': None}
+
+, 'CATY': {
+'name': 'Cathay General Bancorp'
+, 'url': None}
+
+, 'BLK': {
+'name': 'BlackRock
+, Inc.'
+, 'url': None}
+
+, 'CZNC': {
+'name': 'Citizens & Northern Corporation'
+, 'url': None}
+
+, 'HNNA': {
+'name': 'Hennessy Advisors
+, Inc.'
+, 'url': None}
+
+, 'SAVE': {
+'name': 'Spirit Airlines
+, Inc.'
+, 'url': None}
+
+, 'DOLE': {
+'name': 'Dole plc'
+, 'url': None}
+
+, 'BLDR': {
+'name': 'Builders FirstSource
+, Inc.'
+, 'url': None}
+
+, 'KRNL': {
+'name': 'Kernel Group Holdings
+, Inc.'
+, 'url': None}
+
+, 'BB': {
+'name': 'BlackBerry Limited'
+, 'url': None}
+
+, 'GURE': {
+'name': 'Gulf Resources
+, Inc.'
+, 'url': None}
+
+, 'ES': {
+'name': 'Eversource Energy'
+, 'url': None}
+
+, 'CADE': {
+'name': 'Cadence Bank'
+, 'url': None}
+
+, 'PRPL': {
+'name': 'Purple Innovation
+, Inc.'
+, 'url': None}
+
+, 'ASPC': {
+'name': 'Alpha Capital Acquisition Company'
+, 'url': None}
+
+, 'CNDT': {
+'name': 'Conduent Incorporated'
+, 'url': None}
+
+, 'BKD': {
+'name': 'Brookdale Senior Living Inc.'
+, 'url': None}
+
+, 'SWCH': {
+'name': 'Switch
+, Inc.'
+, 'url': None}
+
+, 'AVNT': {
+'name': 'Avient Corporation'
+, 'url': None}
+
+, 'HUBB': {
+'name': 'Hubbell Incorporated'
+, 'url': None}
+
+, 'HRYU': {
+'name': 'Hanryu Holdings
+, Inc.'
+, 'url': None}
+
+, 'TWOU': {
+'name': '2U
+, Inc.'
+, 'url': None}
+
+, 'PINS': {
+'name': 'Pinterest
+, Inc.'
+, 'url': None}
+
+, 'NNI': {
+'name': 'Nelnet
+, Inc.'
+, 'url': None}
+
+, 'PET': {
+'name': 'Wag! Group Co.'
+, 'url': None}
+
+, 'BCSF': {
+'name': 'Bain Capital Specialty Finance
+, Inc.'
+, 'url': None}
+
+, 'ROCC': {
+'name': 'Ranger Oil Corporation'
+, 'url': None}
+
+, 'ORGN': {
+'name': 'Origin Materials
+, Inc.'
+, 'url': None}
+
+, 'DRS': {
+'name': 'Leonardo DRS
+, Inc.'
+, 'url': None}
+
+, 'LTH': {
+'name': 'Life Time Group Holdings
+, Inc.'
+, 'url': None}
+
+, 'APRN': {
+'name': 'Blue Apron Holdings
+, Inc.'
+, 'url': None}
+
+, 'NWBI': {
+'name': 'Northwest Bancshares
+, Inc.'
+, 'url': None}
+
+, 'BBUC': {
+'name': 'Brookfield Business Corporation'
+, 'url': None}
+
+, 'ASGI': {
+'name': 'Abrdn Global Infrastructure Income Fund'
+, 'url': None}
+
+, 'TCBI': {
+'name': 'Texas Capital Bancshares
+, Inc.'
+, 'url': None}
+
+, 'DELL': {
+'name': 'Dell Technologies Inc.'
+, 'url': None}
+
+, 'NTIC': {
+'name': 'Northern Technologies International Corporation'
+, 'url': None}
+
+, 'SDC': {
+'name': 'SmileDirectClub
+, Inc.'
+, 'url': None}
+
+, 'PRAA': {
+'name': 'PRA Group
+, Inc.'
+, 'url': None}
+
+, 'BECN': {
+'name': 'Beacon Roofing Supply
+, Inc.'
+, 'url': None}
+
+, 'TETE': {
+'name': 'Technology & Telecommunication Acquisition Corporation'
+, 'url': None}
+
+, 'XM': {
+'name': 'Qualtrics International Inc.'
+, 'url': None}
+
+, 'SVV': {
+'name': 'Savers Value Village
+, Inc.'
+, 'url': None}
+
+, 'NOMD': {
+'name': 'Nomad Foods Limited'
+, 'url': None}
+
+, 'BCE': {
+'name': 'BCE Inc.'
+, 'url': None}
+
+, 'FLT': {
+'name': 'Fleetcor Technologies
+, Inc.'
+, 'url': None}
+
+, 'BR': {
+'name': 'Broadridge Financial Solutions
+, Inc.'
+, 'url': None}
+
+, 'SKYT': {
+'name': 'SkyWater Technology
+, Inc.'
+, 'url': None}
+
+, 'XELB': {
+'name': 'Xcel Brands
+, Inc.'
+, 'url': None}
+
+, 'WSFS': {
+'name': 'WSFS Financial Corporation'
+, 'url': None}
+
+, 'WLFC': {
+'name': 'Willis Lease Finance Corporation'
+, 'url': None}
+
+, 'CTLT': {
+'name': 'Catalent
+, Inc.'
+, 'url': None}
+
+, 'DOCN': {
+'name': 'DigitalOcean Holdings
+, Inc.'
+, 'url': None}
+
+, 'KTB': {
+'name': 'Kontoor Brands
+, Inc.'
+, 'url': None}
+
+, 'BGS': {
+'name': 'B&G Foods
+, Inc.'
+, 'url': None}
+
+, 'ATGE': {
+'name': 'Adtalem Global Education Inc.'
+, 'url': None}
+
+, 'BE': {
+'name': 'Bloom Energy Corporation'
+, 'url': None}
+
+, 'BXP': {
+'name': 'Boston Properties
+, Inc.'
+, 'url': None}
+
+, 'HUBS': {
+'name': 'HubSpot
+, Inc.'
+, 'url': None}
+
+, 'IOT': {
+'name': 'Samsara Inc.'
+, 'url': None}
+
+, 'SSIC': {
+'name': 'Silver Spike Investment Corp.'
+, 'url': None}
+
+, 'JELD': {
+'name': 'JELD-WEN Holding
+, Inc.'
+, 'url': None}
+
+, 'APGB': {
+'name': 'Apollo Strategic Growth Capital II'
+, 'url': None}
+
+, 'FND': {
+'name': 'Floor & Decor Holdings
+, Inc.'
+, 'url': None}
+
+, 'BROS': {
+'name': 'Dutch Bros Inc.'
+, 'url': None}
+
+, 'BATRA': {
+'name': 'The Liberty Braves Group'
+, 'url': None}
+
+, 'NU': {
+'name': 'Nu Holdings Ltd.'
+, 'url': None}
+
+, 'MOV': {
+'name': 'Movado Group
+, Inc.'
+, 'url': None}
+
+, 'EFC': {
+'name': 'Ellington Financial LLC'
+, 'url': None}
+
+, 'CABO': {
+'name': 'Cable One
+, Inc.'
+, 'url': None}
+
+, 'SKIL': {
+'name': 'Skillsoft Corp.'
+, 'url': None}
+
+, 'PTC': {
+'name': 'PTC Inc.'
+, 'url': None}
+
+, 'DT': {
+'name': 'Dynatrace
+, Inc.'
+, 'url': None}
+
+, 'TWNK': {
+'name': 'Hostess Brands
+, Inc.'
+, 'url': None}
+
+, 'QBTS': {
+'name': 'D-Wave Quantum Inc.'
+, 'url': None}
+
+, 'ASAN': {
+'name': 'Asana
+, Inc.'
+, 'url': None}
+
+, 'MSGE': {
+'name': 'Madison Square Garden Entertainment Corp.'
+, 'url': None}
+
+, 'MTVC': {
+'name': 'Motive Capital Corp II'
+, 'url': None}
+
+, 'SG': {
+'name': 'Sweetgreen
+, Inc.'
+, 'url': None}
+
+, 'NYT': {
+'name': 'The New York Times Company'
+, 'url': None}
+
+, 'EBF': {
+'name': 'Ennis
+, Inc.'
+, 'url': None}
+
+, 'MMS': {
+'name': 'Maximus
+, Inc.'
+, 'url': None}
+
+, 'DXC': {
+'name': 'DXC Technology Company'
+, 'url': None}
+
+, 'BAH': {
+'name': 'Booz Allen Hamilton Holding Corporation'
+, 'url': None}
+
+, 'PDLB': {
+'name': 'Ponce Financial Group
+, Inc.'
+, 'url': None}
+
+, 'LILM': {
+'name': 'Lilium N.V.'
+, 'url': None}
+
+, 'HIMS': {
+'name': 'Hims & Hers Health
+, Inc.'
+, 'url': None}
+
+, 'VVNT': {
+'name': 'Vivint Smart Home
+, Inc.'
+, 'url': None}
+
+, 'KIND': {
+'name': 'Nextdoor Holdings
+, Inc.'
+, 'url': None}
+
+, 'MTD': {
+'name': 'Mettler-Toledo International Inc.'
+, 'url': None}
+
+, 'POSH': {
+'name': 'Poshmark
+, Inc.'
+, 'url': None}
+
+, 'QUBT': {
+'name': 'Quantum Computing
+, Inc.'
+, 'url': None}
+
+, 'ABGI': {
+'name': 'ABG Acquisition Corp. I'
+, 'url': None}
+
+, 'GTES': {
+'name': 'Gates Industrial Corporation plc'
+, 'url': None}
+
+, 'BBLN': {
+'name': 'Babylon Holdings Limited'
+, 'url': None}
+
+, 'CAL': {
+'name': 'Caleres
+, Inc.'
+, 'url': None}
+
+, 'KMPR': {
+'name': 'Kemper Corporation'
+, 'url': None}
+
+, 'FAZE': {
+'name': 'FaZe Holdings Inc.'
+, 'url': None}
+
+, 'AVTR': {
+'name': 'Avantor
+, Inc.'
+, 'url': None}
+
+, 'PLYA': {
+'name': 'Playa Hotels & Resorts N.V.'
+, 'url': None}
+
+, 'SQ': {
+'name': 'Block
+, Inc.'
+, 'url': None}
+
+, 'ENOV': {
+'name': 'Enovis Corporation'
+, 'url': None}
+
+, 'ESAB': {
+'name': 'ESAB Corporation'
+, 'url': None}
+
+, 'DNA': {
+'name': 'Ginkgo Bioworks Holdings
+, Inc.'
+, 'url': None}
+
+, 'IS': {
+'name': 'ironSource Ltd.'
+, 'url': None}
+
+, 'HWKN': {
+'name': 'Hawkins
+, Inc.'
+, 'url': None}
+
+, 'VSAT': {
+'name': 'Viasat
+, Inc.'
+, 'url': None}
+
+, 'GGPI': {
+'name': 'Gores Guggenheim
+, Inc.'
+, 'url': None}
+
+, 'EXAS': {
+'name': 'Exact Sciences Corporation'
+, 'url': None}
+
+, 'LCID': {
+'name': 'Lucid Group
+, Inc.'
+, 'url': None}
+
+, 'ESTC': {
+'name': 'Elastic N.V.'
+, 'url': None}
+
+, 'AMR': {
+'name': 'Alpha Metallurgical Resources
+, Inc.'
+, 'url': None}
+
+, 'FHI': {
+'name': 'Federated Hermes
+, Inc.'
+, 'url': None}
+
+, 'HGV': {
+'name': 'Hilton Grand Vacations Inc.'
+, 'url': None}
+
+, 'LPSN': {
+'name': 'LivePerson
+, Inc.'
+, 'url': None}
+
+, 'BHR': {
+'name': 'Braemar Hotels & Resorts Inc.'
+, 'url': None}
+
+, 'PKG': {
+'name': 'Packaging Corporation Of America'
+, 'url': None}
+
+, 'WRB': {
+'name': 'W. R. Berkley Corporation'
+, 'url': None}
+
+, 'BST': {
+'name': 'BlackRock Science and Technology Trust'
+, 'url': None}
+
+, 'MS': {
+'name': 'Morgan Stanley'
+, 'url': None}
+
+, 'EHC': {
+'name': 'Encompass Health Corporation'
+, 'url': None}
+
+, 'CAVA': {
+'name': 'CAVA Group
+, Inc.'
+, 'url': None}
+
+, 'DLTH': {
+'name': 'Duluth Holdings Inc.'
+, 'url': None}
+
+, 'ADC': {
+'name': 'Agree Realty Corporation'
+, 'url': None}
+
+, 'BCO': {
+'name': "The Brink's Company"
+, 'url': None}
+
+, 'NGVC': {
+'name': 'Natural Grocers by Vitamin Cottage
+, Inc.'
+, 'url': None}
+
+, 'AGCB': {
+'name': 'Altimeter Growth Corp. 2'
+, 'url': None}
+
+, 'IMTE': {
+'name': 'Integrated Media Technology Limited'
+, 'url': None}
+
+, 'RACE': {
+'name': 'Ferrari N.V.'
+, 'url': None}
+
+, 'NBTB': {
+'name': 'NBT Bancorp Inc.'
+, 'url': None}
+
+, 'NCLH': {
+'name': 'Norwegian Cruise Line Holdings Ltd.'
+, 'url': None}
+
+, 'JOBY': {
+'name': 'Joby Aviation
+, Inc.'
+, 'url': None}
+
+, 'GOLD': {
+'name': 'Barrick Gold Corporation'
+, 'url': None}
+
+, 'CCIF': {
+'name': 'Carlyle Credit Income Fund'
+, 'url': None}
+
+, 'FDBC': {
+'name': 'Fidelity D & D Bancorp
+, Inc.'
+, 'url': None}
+
+, 'J': {
+'name': 'Jacobs Engineering Group Inc.'
+, 'url': None}
+
+, 'CMCT': {
+'name': 'Creative Media & Community Trust Corporation'
+, 'url': None}
+
+, 'CPRI': {
+'name': 'Capri Holdings Limited'
+, 'url': None}
+
+, 'ACCD': {
+'name': 'Accolade
+, Inc.'
+, 'url': None}
+
+, 'BWA': {
+'name': 'BorgWarner Inc.'
+, 'url': None}
+
+, 'NTR': {
+'name': 'Nutrien Ltd.'
+, 'url': None}
+
+, 'FMBH': {
+'name': 'First Mid Bancshares
+, Inc.'
+, 'url': None}
+
+, 'INTZ': {
+'name': 'Intrusion Inc.'
+, 'url': None}
+
+, 'SMWB': {
+'name': 'Similarweb Ltd.'
+, 'url': None}
+
+, 'WEBR': {
+'name': 'Weber Inc.'
+, 'url': None}
+
+, 'NOC': {
+'name': 'Northrop Grumman Corporation'
+, 'url': None}
+
+, 'FACT': {
+'name': 'Freedom Acquisition I Corp.'
+, 'url': None}
+
+, 'NODK': {
+'name': 'NI Holdings
+, Inc.'
+, 'url': None}
+
+, 'OTIS': {
+'name': 'Otis Worldwide Corporation'
+, 'url': None}
+
+, 'FSR': {
+'name': 'Fisker Inc.'
+, 'url': None}
+
+, 'LYTS': {
+'name': 'LSI Industries Inc.'
+, 'url': None}
+
+, 'OBDC': {
+'name': 'Blue Owl Capital Corporation'
+, 'url': None}
+
+, 'MHK': {
+'name': 'Mohawk Industries
+, Inc.'
+, 'url': None}
+
+, 'COHR': {
+'name': 'Coherent
+, Inc.'
+, 'url': None}
+
+, 'ACHR': {
+'name': 'Archer Aviation Inc.'
+, 'url': None}
+
+, 'BOX': {
+'name': 'Box
+, Inc.'
+, 'url': None}
+
+, 'SUM': {
+'name': 'Summit Materials
+, Inc.'
+, 'url': None}
+
+, 'OOMA': {
+'name': 'Ooma
+, Inc.'
+, 'url': None}
+
+, 'HOPE': {
+'name': 'Hope Bancorp
+, Inc.'
+, 'url': None}
+
+, 'SNEX': {
+'name': 'StoneX Group Inc.'
+, 'url': None}
+
+, 'POLA': {
+'name': 'Polar Power
+, Inc.'
+, 'url': None}
+
+, 'EMF': {
+'name': 'Templeton Emerging Markets Fund
+, Inc.'
+, 'url': None}
+
+, 'PRU': {
+'name': 'Prudential Financial
+, Inc.'
+, 'url': None}
+
+, 'GEF': {
+'name': 'Greif
+, Inc.'
+, 'url': None}
+
+, 'PCOR': {
+'name': 'Procore Technologies
+, Inc.'
+, 'url': None}
+
+, 'AMRX': {
+'name': 'Amneal Pharmaceuticals
+, Inc.'
+, 'url': None}
+
+, 'DISH': {
+'name': 'DISH Network Corporation'
+, 'url': None}
+
+, 'COMP': {
+'name': 'Compass
+, Inc.'
+, 'url': None}
+
+, 'CVNA': {
+'name': 'Carvana Co.'
+, 'url': None}
+
+, 'MMAT': {
+'name': 'Meta Materials Inc.'
+, 'url': None}
+
+, 'FERG': {
+'name': 'Ferguson plc'
+, 'url': None}
+
+, 'RDIB': {
+'name': 'Reading International
+, Inc.'
+, 'url': None}
+
+, 'VYX': {
+'name': 'NCR Voyix Corporation'
+, 'url': None}
+
+, 'SLE': {
+'name': 'Super League Enterprise
+, Inc.'
+, 'url': None}
+
+, 'CHWY': {
+'name': 'Chewy
+, Inc.'
+, 'url': None}
+
+, 'RUM': {
+'name': 'Rumble Inc.'
+, 'url': None}
+
+, 'CBRG': {
+'name': 'Chain Bridge I'
+, 'url': None}
+
+, 'MCN': {
+'name': 'Madison Covered Call & Equity Strategy Fund'
+, 'url': None}
+
+, 'EPWR': {
+'name': 'Empowerment & Inclusion Capital I Corp.'
+, 'url': None}
+
+, 'JBI': {
+'name': 'Janus International Group
+, Inc.'
+, 'url': None}
+
+, 'AYX': {
+'name': 'Alteryx
+, Inc.'
+, 'url': None}
+
+, 'CTVA': {
+'name': 'Corteva
+, Inc.'
+, 'url': None}
+
+, 'FUBO': {
+'name': 'fuboTV Inc.'
+, 'url': None}
+
+, 'CC': {
+'name': 'The Chemours Company'
+, 'url': None}
+
+, 'ELAN': {
+'name': 'Elanco Animal Health Incorporated'
+, 'url': None}
+
+, 'HQY': {
+'name': 'HealthEquity
+, Inc.'
+, 'url': None}
+
+, 'HHLA': {
+'name': 'HH&L Acquisition Co.'
+, 'url': None}
+
+, 'ULH': {
+'name': 'Universal Logistics Holdings
+, Inc.'
+, 'url': None}
+
+, 'MTEM': {
+'name': 'Molecular Templates
+, Inc.'
+, 'url': None}
+
+, 'FSLY': {
+'name': 'Fastly
+, Inc.'
+, 'url': None}
+
+, 'MOH': {
+'name': 'Molina Healthcare
+, Inc.'
+, 'url': None}
+
+, 'RVT': {
+'name': 'Royce Value Trust Inc.'
+, 'url': None}
+
+, 'BNS': {
+'name': 'The Bank of Nova Scotia'
+, 'url': None}
+
+, 'BEEM': {
+'name': 'Beam Global'
+, 'url': None}
+
+, 'MP': {
+'name': 'MP Materials Corp.'
+, 'url': None}
+
+, 'BMO': {
+'name': 'Bank of Montreal'
+, 'url': None}
+
+, 'WTRG': {
+'name': 'Essential Utilities
+, Inc.'
+, 'url': None}
+
+, 'OLO': {
+'name': 'Olo Inc.'
+, 'url': None}
+
+, 'ON': {
+'name': 'ON Semiconductor Corporation'
+, 'url': None}
+
+, 'PSFE': {
+'name': 'Paysafe Limited'
+, 'url': None}
+
+, 'CWH': {
+'name': 'CommonWealth REIT'
+, 'url': None}
+
+, 'NVR': {
+'name': 'NVR
+, Inc.'
+, 'url': None}
+
+, 'FRHC': {
+'name': 'Freedom Holding Corp.'
+, 'url': None}
+
+, 'LMND': {
+'name': 'Lemonade
+, Inc.'
+, 'url': None}
+
+, 'BIG': {
+'name': 'Big Lots
+, Inc.'
+, 'url': None}
+
+, 'INVH': {
+'name': 'Invitation Homes Inc.'
+, 'url': None}
+
+, 'HEES': {
+'name': 'H&E Equipment Services
+, Inc.'
+, 'url': None}
+
+, 'HPE': {
+'name': 'Hewlett Packard Enterprise Company'
+, 'url': None}
+
+, 'SCU': {
+'name': 'Scana Corporation'
+, 'url': None}
+
+, 'MANU': {
+'name': 'Manchester United plc'
+, 'url': None}
+
+, 'PLTR': {
+'name': 'Palantir Technologies Inc.'
+, 'url': None}
+
+, 'JEF': {
+'name': 'Jefferies Financial Group Inc.'
+, 'url': None}
+
+, 'SFNC': {
+'name': 'Simmons First National Corporation'
+, 'url': None}
+
+, 'RTX': {
+'name': 'Raytheon Technologies Corporation'
+, 'url': None}
+
+, 'HCKT': {
+'name': 'The Hackett Group
+, Inc.'
+, 'url': None}
+
+, 'AOSL': {
+'name': 'Alpha and Omega Semiconductor Limited'
+, 'url': None}
+
+, 'CSV': {
+'name': 'Carriage Services'
+, 'url': None}
+
+, 'OCEA': {
+'name': 'Ocean Biomedical
+, Inc.'
+, 'url': None}
+
+, 'AESI': {
+'name': 'Atlas Energy Solutions Inc.'
+, 'url': None}
+
+, 'ATUS': {
+'name': 'Altice USA
+, Inc.'
+, 'url': None}
+
+, 'BRCC': {
+'name': 'BRC Inc.'
+, 'url': None}
+
+, 'SHOO': {
+'name': 'Steven Madden
+, Ltd.'
+, 'url': None}
+
+, 'ACI': {
+'name': 'Albertsons Companies
+, Inc.'
+, 'url': None}
+
+, 'ELV': {
+'name': 'Elevance Health Inc.'
+, 'url': None}
+
+, 'BIRK': {
+'name': 'Birkenstock Holding plc'
+, 'url': None}
+
+, 'BBWI': {
+'name': 'Bath & Body Works
+, Inc.'
+, 'url': None}
+
+, 'TKO': {
+'name': 'TKO Group Holdings
+, Inc.'
+, 'url': None}
+
+, 'DYAI': {
+'name': 'Dyadic International
+, Inc.'
+, 'url': None}
+
+, 'BWXT': {
+'name': 'BWX Technologies
+, Inc.'
+, 'url': None}
+
+, 'CCBG': {
+'name': 'Capital City Bank Group
+, Inc.'
+, 'url': None}
+
+, 'WSBF': {
+'name': 'Waterstone Financial
+, Inc.'
+, 'url': None}
+
+, 'MC': {
+'name': 'Moelis & Company'
+, 'url': None}
+
+, 'CNM': {
+'name': 'Core & Main
+, Inc.'
+, 'url': None}
+
+, 'MGA': {
+'name': 'Magna International Inc.'
+, 'url': None}
+
+, 'BEPC': {
+'name': 'Brookfield Renewable Corporation'
+, 'url': None}
+
+, 'VRM': {
+'name': 'Vroom
+, Inc.'
+, 'url': None}
+
+, 'GATO': {
+'name': 'Gatos Silver
+, Inc.'
+, 'url': None}
+
+, 'ICL': {
+'name': 'ICL Group Ltd'
+, 'url': None}
+
+, 'SGHT': {
+'name': 'Sight Sciences
+, Inc.'
+, 'url': None}
+
+, 'PRKS': {
+'name': 'United Parks & Resorts Inc.'
+, 'url': None}
+
+, 'CANO': {
+'name': 'Cano Health
+, Inc.'
+, 'url': None}
+
+, 'OVV': {
+'name': 'Ovintiv Inc.'
+, 'url': None}
+
+, 'BBLG': {
+'name': 'Bone Biologics Corporation'
+, 'url': None}
+
+, 'LNG': {
+'name': 'Cheniere Energy
+, Inc.'
+, 'url': None}
+
+, 'BIPC': {
+'name': 'Brookfield Infrastructure Corporation'
+, 'url': None}
+
+, 'EAT': {
+'name': 'Brinker International
+, Inc.'
+, 'url': None}
+
+, 'TORO': {
+'name': 'Toro Corp.'
+, 'url': None}
+
+, 'BLDP': {
+'name': 'Ballard Power Systems Inc.'
+, 'url': None}
+
+, 'DAVE': {
+'name': 'Dave Inc.'
+, 'url': None}
+
+, 'OGN': {
+'name': 'Organon & Co.'
+, 'url': None}
+
+, 'SEMR': {
+'name': 'Semrush Holdings
+, Inc.'
+, 'url': None}
+
+, 'IVR': {
+'name': 'Invesco Mortgage Capital Inc.'
+, 'url': None}
+
+, 'HLI': {
+'name': 'Houlihan Lokey
+, Inc.'
+, 'url': None}
+
+, 'STSS': {
+'name': 'Sharps Technology
+, Inc.'
+, 'url': None}
+
+, 'SN': {
+'name': 'Sanchez Energy Corporation'
+, 'url': None}
+
+, 'QRTEB': {
+'name': 'Qurate Retail
+, Inc.'
+, 'url': None}
+
+, 'NEE': {
+'name': 'NextEra Energy
+, Inc.'
+, 'url': None}
+
+, 'SYF': {
+'name': 'Synchrony Financial'
+, 'url': None}
+
+, 'BYD': {
+'name': 'Boyd Gaming Corporation'
+, 'url': None}
+
+, 'COOP': {
+'name': 'Mr. Cooper Group Inc.'
+, 'url': None}
+
+, 'NGS': {
+'name': 'Natural Gas Services Group
+, Inc.'
+, 'url': None}
+
+, 'MGM': {
+'name': 'MGM Resorts International'
+, 'url': None}
+
+, 'ALIT': {
+'name': 'Alight
+, Inc.'
+, 'url': None}
+
+, 'CLVT': {
+'name': 'Clarivate Plc'
+, 'url': None}
+
+, 'RELY': {
+'name': 'Remitly Global
+, Inc.'
+, 'url': None}
+
+, 'PFIN': {
+'name': 'P&F Industries
+, Inc.'
+, 'url': None}
+
+, 'MRDB': {
+'name': 'MariaDB plc'
+, 'url': None}
+
+, 'PRMW': {
+'name': 'Primo Water Corporation'
+, 'url': None}
+
+, 'TURB': {
+'name': 'Turbo Energy
+, S.A. American Depositary Shares'
+, 'url': None}
+
+, 'ISAA': {
+'name': 'Iron Spark I Inc.'
+, 'url': None}
+
+, 'VGII': {
+'name': 'Virgin Group Acquisition Corp. II'
+, 'url': None}
+
+, 'EQH': {
+'name': 'Equitable Holdings
+, Inc.'
+, 'url': None}
+
+, 'CIXX': {
+'name': 'CI Financial Corp.'
+, 'url': None}
+
+, 'AX': {
+'name': 'Axos Financial
+, Inc.'
+, 'url': None}
+
+, 'LFVN': {
+'name': 'LifeVantage Corporation'
+, 'url': None}
+
+, 'OTEX': {
+'name': 'Open Text Corporation'
+, 'url': None}
+
+, 'TER': {
+'name': 'Teradyne
+, Inc.'
+, 'url': None}
+
+, 'USAP': {
+'name': 'Universal Stainless & Alloy Products
+, Inc.'
+, 'url': None}
+
+, 'VNOM': {
+'name': 'Viper Energy Partners LP'
+, 'url': None}
+
+, 'MRK': {
+'name': 'Merck & Co.
+, Inc.'
+, 'url': None}
+
+, 'LUMN': {
+'name': 'Lumen Technologies
+, Inc.'
+, 'url': None}
+
+, 'BODY': {
+'name': 'The Beachbody Company
+, Inc.'
+, 'url': None}
+
+, 'AMPI': {
+'name': 'Advanced Merger Partners
+, Inc'
+, 'url': None}
+
+, 'BK': {
+'name': 'The Bank of New York Mellon Corporation'
+, 'url': None}
+
+, 'ARLO': {
+'name': 'Arlo Technologies
+, Inc.'
+, 'url': None}
+
+, 'ELF': {
+'name': 'e.l.f. Beauty
+, Inc.'
+, 'url': None}
+
+, 'DAY': {
+'name': 'Dayforce Inc'
+, 'url': None}
+
+, 'SMR': {
+'name': 'NuScale Power Corporation'
+, 'url': None}
+
+, 'FI': {
+'name': "Frank\x92's International N.V."
+, 'url': None}
+
+, 'STWD': {
+'name': 'Starwood Property Trust
+, Inc.'
+, 'url': None}
+
+, 'CIGI': {
+'name': 'Colliers International Group Inc.'
+, 'url': None}
+
+, 'XPDB': {
+'name': 'Power & Digital Infrastructure Acquisition II Corp.'
+, 'url': None}
+
+, 'ADT': {
+'name': 'ADT Inc.'
+, 'url': None}
+
+, 'MERC': {
+'name': 'Mercer International Inc.'
+, 'url': None}
+
+, 'FORR': {
+'name': 'Forrester Research
+, Inc.'
+, 'url': None}
+
+, 'PGRE': {
+'name': 'Paramount Group
+, Inc.'
+, 'url': None}
+
+, 'BSX': {
+'name': 'Boston Scientific Corporation'
+, 'url': None}
+
+, 'NLY': {
+'name': 'Annaly Capital Management
+, Inc.'
+, 'url': None}
+
+, 'MTZ': {
+'name': 'MasTec
+, Inc.'
+, 'url': None}
+
+, 'TENB': {
+'name': 'Tenable Holdings
+, Inc.'
+, 'url': None}
+
+, 'PHR': {
+'name': 'Phreesia
+, Inc.'
+, 'url': None}
+
+, 'SHOP': {
+'name': 'Shopify Inc.'
+, 'url': None}
+
+, 'KD': {
+'name': 'Kyndryl Holdings
+, Inc.'
+, 'url': None}
+
+, 'RACY': {
+'name': 'Relativity Acquisition Corp.'
+, 'url': None}
+
+, 'VTOL': {
+'name': 'Bristow Group Inc.'
+, 'url': None}
+
+, 'BKH': {
+'name': 'Black Hills Corporation'
+, 'url': None}
+
+, 'BALL': {
+'name': 'Ball Corporation'
+, 'url': None}
+
+, 'HWM': {
+'name': 'Howmet Aerospace Inc.'
+, 'url': None}
+
+, 'SAM': {
+'name': 'The Boston Beer Company
+, Inc.'
+, 'url': None}
+
+, 'EB': {
+'name': 'Eventbrite
+, Inc.'
+, 'url': None}
+
+, 'BRBR': {
+'name': 'BellRing Brands
+, Inc.'
+, 'url': None}
+
+, 'BG': {
+'name': 'Bunge Limited'
+, 'url': None}
+
+, 'TGAA': {
+'name': 'Target Global Acquisition I Corp.'
+, 'url': None}
+
+, 'PSTG': {
+'name': 'Pure Storage
+, Inc.'
+, 'url': None}
+
+, 'ZCAR': {
+'name': 'Zoomcar Holdings
+, Inc.'
+, 'url': None}
+
+, 'PD': {
+'name': 'PagerDuty
+, Inc.'
+, 'url': None}
+
+, 'GTX': {
+'name': 'Garrett Motion Inc.'
+, 'url': None}
+
+, 'GDEV': {
+'name': 'GDEV Inc.'
+, 'url': None}
+
+, 'MPW': {
+'name': 'Medical Properties Trust
+, Inc.'
+, 'url': None}
+
+, 'CHCI': {
+'name': 'Comstock Holding Companies
+, Inc.'
+, 'url': None}
+
+, 'AIRT': {
+'name': 'Air T
+, Inc.'
+, 'url': None}
+
+, 'GAIA': {
+'name': 'Gaia
+, Inc.'
+, 'url': None}
+
+, 'DXYN': {
+'name': 'The Dixie Group
+, Inc.'
+, 'url': None}
+
+, 'WCN': {
+'name': 'Waste Connections
+, Inc.'
+, 'url': None}
+
+, 'M': {
+'name': "Macy's
+, Inc."
+, 'url': None}
+
+, 'BOWL': {
+'name': 'Bowlero Corp.'
+, 'url': None}
+
+, 'OSCR': {
+'name': 'Oscar Health
+, Inc.'
+, 'url': None}
+
+, 'BCC': {
+'name': 'Boise Cascade Company'
+, 'url': None}
+
+, 'APEI': {
+'name': 'American Public Education
+, Inc.'
+, 'url': None}
+
+, 'BILL': {
+'name': 'Bill.com Holdings
+, Inc.'
+, 'url': None}
+
+, 'BFH': {
+'name': 'Bread Financial Holdings
+, Inc.'
+, 'url': None}
+
+, 'DINO': {
+'name': 'HF Sinclair Corporation'
+, 'url': None}
+
+, 'PLNT': {
+'name': 'Planet Fitness
+, Inc.'
+, 'url': None}
+
+, 'BOH': {
+'name': 'Bank of Hawaii Corporation'
+, 'url': None}
+
+, 'RELI': {
+'name': 'Reliance Global Group
+, Inc.'
+, 'url': None}
+
+, 'TSEM': {
+'name': 'Tower Semiconductor Ltd.'
+, 'url': None}
+
+, 'NKE': {
+'name': 'NIKE
+, Inc.'
+, 'url': None}
+
+, 'GPAC': {
+'name': 'Global Partner Acquisition Corp II'
+, 'url': None}
+
+, 'GHAC': {
+'name': 'Gaming & Hospitality Acquisition Corp.'
+, 'url': None}
+
+, 'PMT': {
+'name': 'PennyMac Mortgage Investment Trust'
+, 'url': None}
+
+, 'ONB': {
+'name': 'Old National Bancorp'
+, 'url': None}
+
+, 'LOT': {
+'name': 'Lotus Technology Inc. American Depositary Shares'
+, 'url': None}
+
+, 'SLAB': {
+'name': 'Silicon Laboratories Inc.'
+, 'url': None}
+
+, 'BX': {
+'name': 'Blackstone Inc.'
+, 'url': None}
+
+, 'SASI': {
+'name': 'Sigma Labs
+, Inc.'
+, 'url': None}
+
+, 'TWOA': {
+'name': 'two'
+, 'url': None}
+
+, 'LBRT': {
+'name': 'Liberty Energy Inc.'
+, 'url': None}
+
+, 'NBR': {
+'name': 'Nabors Industries Ltd.'
+, 'url': None}
+
+, 'BBW': {
+'name': 'Build-A-Bear Workshop
+, Inc.'
+, 'url': None}
+
+, 'AXDX': {
+'name': 'Accelerate Diagnostics
+, Inc.'
+, 'url': None}
+
+, 'BC': {
+'name': 'Brunswick Corporation'
+, 'url': None}
+
+, 'RIDE': {
+'name': 'Lordstown Motors Corp.'
+, 'url': None}
+
+, 'RAND': {
+'name': 'Rand Capital Corporation'
+, 'url': None}
+
+, 'SCKT': {
+'name': 'Socket Mobile
+, Inc.'
+, 'url': None}
+
+, 'CSGS': {
+'name': 'CSG Systems International
+, Inc.'
+, 'url': None}
+
+, 'CARR': {
+'name': 'Carrier Global Corporation'
+, 'url': None}
+
+, 'GRND': {
+'name': 'Grindr Inc.'
+, 'url': None}
+
+, 'JHG': {
+'name': 'Janus Henderson Group plc'
+, 'url': None}
+
+, 'PINC': {
+'name': 'Premier
+, Inc.'
+, 'url': None}
+
+, 'MCAA': {
+'name': 'Mountain & Co. I Acquisition Corp.'
+, 'url': None}
+
+, 'SMCI': {
+'name': 'Super Micro Computer
+, Inc.'
+, 'url': None}
+
+, 'HAPP': {
+'name': 'Happiness Development Group Limited'
+, 'url': None}
+
+, 'FLEX': {
+'name': 'Flex Ltd.'
+, 'url': None}
+
+, 'LITT': {
+'name': 'Logistics Innovation Technologies Corp.'
+, 'url': None}
+
+, 'TEN': {
+'name': 'Tenneco Inc.'
+, 'url': None}
+
+, 'MUR': {
+'name': 'Murphy Oil Corporation'
+, 'url': None}
+
+, 'LEN': {
+'name': 'Lennar Corporation'
+, 'url': None}
+
+, 'ASST': {
+'name': 'Asset Entities Inc.'
+, 'url': None}
+
+, 'QRTEA': {
+'name': 'Qurate Retail
+, Inc.'
+, 'url': None}
+
+, 'SNDR': {
+'name': 'Schneider National
+, Inc.'
+, 'url': None}
+
+, 'RAMP': {
+'name': 'LiveRamp Holdings
+, Inc.'
+, 'url': None}
+
+, 'IVCA': {
+'name': 'Investcorp India Acquisition Corp'
+, 'url': None}
+
+, 'WHLM': {
+'name': 'Wilhelmina International
+, Inc.'
+, 'url': None}
+
+, 'ROVR': {
+'name': 'Rover Group
+, Inc.'
+, 'url': None}
+
+, 'MBI': {
+'name': 'MBIA Inc.'
+, 'url': None}
+
+, 'CEIX': {
+'name': 'CONSOL Energy Inc.'
+, 'url': None}
+
+, 'LANV': {
+'name': 'Lanvin Group Holdings Limited'
+, 'url': None}
+
+, 'UAA': {
+'name': 'Under Armour
+, Inc.'
+, 'url': None}
+
+, 'AVO': {
+'name': 'Mission Produce
+, Inc.'
+, 'url': None}
+
+, 'DBRG': {
+'name': 'DigitalBridge Group
+, Inc.'
+, 'url': None}
+
+, 'BHC': {
+'name': 'Bausch Health Companies Inc.'
+, 'url': None}
+
+, 'NYCB': {
+'name': 'New York Community Bancorp
+, Inc.'
+, 'url': None}
+
+, 'CFFI': {
+'name': 'C&F Financial Corporation'
+, 'url': None}
+
+, 'EEIQ': {
+'name': 'Elite Education Group International Limited'
+, 'url': None}
+
+, 'MSGS': {
+'name': 'Madison Square Garden Sports Corp.'
+, 'url': None}
+
+, 'GMED': {
+'name': 'Globus Medical
+, Inc.'
+, 'url': None}
+
+, 'GAME': {
+'name': 'Engine Gaming and Media
+, Inc.'
+, 'url': None}
+
+, 'BMY': {
+'name': 'Bristol-Myers Squibb Company'
+, 'url': None}
+
+, 'PFGC': {
+'name': 'Performance Food Group Company'
+, 'url': None}
+
+, 'MLM': {
+'name': 'Martin Marietta Materials
+, Inc.'
+, 'url': None}
+
+, 'BYON': {
+'name': 'Beyond
+, Inc.'
+, 'url': None}
+
+, 'GDDY': {
+'name': 'GoDaddy Inc.'
+, 'url': None}
+
+, 'HTOO': {
+'name': 'Fusion Fuel Green PLC'
+, 'url': None}
+
+, 'MANT': {
+'name': 'ManTech International Corporation'
+, 'url': None}
+
+, 'AMAL': {
+'name': 'Amalgamated Financial Corp.'
+, 'url': None}
+
+, 'ACB': {
+'name': 'Aurora Cannabis Inc.'
+, 'url': None}
+
+, 'FOUR': {
+'name': 'Shift4 Payments
+, Inc.'
+, 'url': None}
+
+, 'PSTH': {
+'name': 'Pershing Square Tontine Holdings
+, Ltd.'
+, 'url': None}
+
+, 'BRO': {
+'name': 'Brown & Brown
+, Inc.'
+, 'url': None}
+
+, 'UPLD': {
+'name': 'Upland Software
+, Inc.'
+, 'url': None}
+
+, 'NET': {
+'name': 'Cloudflare
+, Inc.'
+, 'url': None}
+
+, 'MOS': {
+'name': 'The Mosaic Company'
+, 'url': None}
+
+, 'OMF': {
+'name': 'OneMain Holdings
+, Inc.'
+, 'url': None}
+
+, 'MIRA': {
+'name': 'MIRA Pharmaceuticals
+, Inc.'
+, 'url': None}
+
+, 'EVGR': {
+'name': 'Evergreen Corporation'
+, 'url': None}
+
+, 'CARS': {
+'name': 'Cars.com Inc.'
+, 'url': None}
+
+, 'AMBP': {
+'name': 'Ardagh Metal Packaging S.A.'
+, 'url': None}
+
+, 'LEVI': {
+'name': 'Levi Strauss & Co.'
+, 'url': None}
+
+, 'CBRE': {
+'name': 'CBRE Group
+, Inc.'
+, 'url': None}
+
+, 'TIGO': {
+'name': 'Millicom International Cellular S.A.'
+, 'url': None}
+
+, 'BLBX': {
+'name': 'Blackboxstocks Inc.'
+, 'url': None}
+
+, 'TAP': {
+'name': 'Molson Coors Beverage Company'
+, 'url': None}
+
+, 'DOCS': {
+'name': 'Doximity
+, Inc.'
+, 'url': None}
+
+, 'INFA': {
+'name': 'Informatica Inc.'
+, 'url': None}
+
+, 'GT': {
+'name': 'The Goodyear Tire & Rubber Company'
+, 'url': None}
+
+, 'MTRX': {
+'name': 'Matrix Service Company'
+, 'url': None}
+
+, 'BKE': {
+'name': 'The Buckle
+, Inc.'
+, 'url': None}
+
+, 'MPC': {
+'name': 'Marathon Petroleum Corporation'
+, 'url': None}
+
+, 'CFG': {
+'name': 'Citizens Financial Group
+, Inc.'
+, 'url': None}
+
+, 'FVRR': {
+'name': 'Fiverr International Ltd.'
+, 'url': None}
+
+, 'HTGC': {
+
+'name': 'Hercules Technology Growth Capital
+, Inc.'
+, 'url': None}
+
+, 'MTH': {
+
+'name': 'Meritage Homes Corporation'
+, 'url': None}
+
+, 'MOG': {
+
+'name': 'Moog Inc'
+, 'url': None}
+}

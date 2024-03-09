@@ -1,0 +1,1427 @@
+<!DOCTYPE html>
+
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-night-mode-clientpref-0 vector-toc-not-available" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Companies listed on the New York Stock Exchange (G) - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-night-mode-clientpref-0 vector-toc-not-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"115ccef6-819f-4de3-98f6-283b954b83b3","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Companies_listed_on_the_New_York_Stock_Exchange_(G)","wgTitle":"Companies listed on the New York Stock Exchange (G)","wgCurRevisionId":1166946937,"wgRevisionId":1166946937,"wgArticleId":4371942,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing potentially dated statements from August 2014","Lists of companies listed on the New York Stock Exchange"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Companies_listed_on_the_New_York_Stock_Exchange_(G)","wgRelevantArticleId":4371942,"wgIsProbablyEditable":true,
+"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":9000,"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q5155417","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":
+false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","codex-search-styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link href="/w/load.php?lang=en&amp;modules=codex-search-styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022" rel="stylesheet"/>
+<meta content="MediaWiki 1.42.0-wmf.20" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="Companies listed on the New York Stock Exchange (G) - Wikipedia" property="og:title"/>
+<meta content="website" property="og:type"/>
+<link href="//en.m.wikipedia.org/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(G)" media="only screen and (max-width: 720px)" rel="alternate"/>
+<link href="/w/index.php?title=Companies_listed_on_the_New_York_Stock_Exchange_(G)&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="https://en.wikipedia.org/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(G)" rel="canonical"/>
+<link href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="license"/>
+<link href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" rel="alternate" title="Wikipedia Atom feed" type="application/atom+xml"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch">
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+</link></head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Companies_listed_on_the_New_York_Stock_Exchange_G rootpage-Companies_listed_on_the_New_York_Stock_Exchange_G skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+<header class="vector-header mw-header">
+<div class="vector-header-start">
+<nav aria-label="Site" class="vector-main-menu-landmark" role="navigation">
+<div class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right" id="vector-main-menu-dropdown">
+<input aria-haspopup="true" aria-label="Main menu" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-vector-main-menu-dropdown" id="vector-main-menu-dropdown-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" for="vector-main-menu-dropdown-checkbox" id="vector-main-menu-dropdown-label"><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+<span class="vector-dropdown-label-text">Main menu</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-unpinned-container" id="vector-main-menu-unpinned-container">
+<div class="vector-main-menu vector-pinnable-element" id="vector-main-menu">
+<div class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned" data-feature-name="main-menu-pinned" data-pinnable-element-id="vector-main-menu" data-pinned-container-id="vector-main-menu-pinned-container" data-unpinned-container-id="vector-main-menu-unpinned-container">
+<div class="vector-pinnable-header-label">Main menu</div>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-navigation" id="p-navigation">
+<div class="vector-menu-heading">
+		Navigation
+	</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]"><span>Main page</span></a></li><li class="mw-list-item" id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Visit a randomly selected article [x]"><span>Random article</span></a></li><li class="mw-list-item" id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li class="mw-list-item" id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-interaction" id="p-interaction">
+<div class="vector-menu-heading">
+		Contribute
+	</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]"><span>Recent changes</span></a></li><li class="mw-list-item" id="n-upload"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+<div class="vector-main-menu-action-item">
+<div class="vector-main-menu-action-heading vector-menu-heading">Languages</div>
+<div class="vector-main-menu-action-content vector-menu-content">
+<div class="mw-message-box cdx-message cdx-message--block mw-message-box-notice cdx-message--notice vector-language-sidebar-alert"><span class="cdx-message__icon"></span><div class="cdx-message__content">Language links are at the top of the page.</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<a class="mw-logo" href="/wiki/Main_Page">
+<img alt="" aria-hidden="true" class="mw-logo-icon" height="50" src="/static/images/icons/wikipedia.png" width="50"/>
+<span class="mw-logo-container">
+<img alt="Wikipedia" class="mw-logo-wordmark" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;"/>
+<img alt="The Free Encyclopedia" class="mw-logo-tagline" height="13" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" style="width: 7.3125em; height: 0.8125em;" width="117"/>
+</span>
+</a>
+</div>
+<div class="vector-header-end">
+<div class="vector-search-box-vue vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<a accesskey="f" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" href="/wiki/Special:Search" id="" title="Search Wikipedia [f]"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+<span>Search</span>
+</a>
+<div class="vector-typeahead-search-container">
+<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+<form action="/w/index.php" class="cdx-search-input cdx-search-input--has-end-button" id="searchform">
+<div class="cdx-search-input__input-wrapper" data-search-loc="header-moved" id="simpleSearch">
+<div class="cdx-text-input cdx-text-input--has-start-icon">
+<input accesskey="f" aria-label="Search Wikipedia" autocapitalize="sentences" class="cdx-text-input__input" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+</div>
+<input name="title" type="hidden" value="Special:Search"/>
+</div>
+<button class="cdx-button cdx-search-input__end-button">Search</button>
+</form>
+</div>
+</div>
+</div>
+<nav aria-label="Personal tools" class="vector-user-links vector-user-links-wide" role="navigation">
+<div class="vector-user-links-main">
+<div class="vector-menu mw-portlet emptyPortlet" id="p-vector-user-menu-preferences">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet emptyPortlet" id="p-vector-user-menu-userpage">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</div>
+<nav aria-label="Appearance" class="vector-client-prefs-landmark">
+</nav>
+<div class="vector-menu mw-portlet emptyPortlet" id="p-vector-user-menu-notifications">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet" id="p-vector-user-menu-overflow">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="user-links-collapsible-item mw-list-item user-links-collapsible-item" id="pt-createaccount-2"><a class="" data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Companies+listed+on+the+New+York+Stock+Exchange+%28G%29" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a>
+</li>
+<li class="user-links-collapsible-item mw-list-item user-links-collapsible-item" id="pt-login-2"><a accesskey="o" class="" data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Companies+listed+on+the+New+York+Stock+Exchange+%28G%29" title="You're encouraged to log in; however, it's not mandatory. [o]"><span>Log in</span></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out" id="vector-user-links-dropdown" title="Log in and more options">
+<input aria-haspopup="true" aria-label="Personal tools" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-vector-user-links-dropdown" id="vector-user-links-dropdown-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" for="vector-user-links-dropdown-checkbox" id="vector-user-links-dropdown-label"><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+<span class="vector-dropdown-label-text">Personal tools</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item" id="p-personal" title="User menu">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="user-links-collapsible-item mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Companies+listed+on+the+New+York+Stock+Exchange+%28G%29" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li class="user-links-collapsible-item mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Companies+listed+on+the+New+York+Stock+Exchange+%28G%29" title="You're encouraged to log in; however, it's not mandatory. [o]"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor" id="p-user-menu-anon-editor">
+<div class="vector-menu-heading">
+		Pages for logged out editors <a aria-label="Learn more about editing" href="/wiki/Help:Introduction"><span>learn more</span></a>
+</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]"><span>Contributions</span></a></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]"><span>Talk</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</header>
+</div>
+<div class="mw-page-container">
+<div class="mw-page-container-inner">
+<div class="vector-sitenotice-container">
+<div id="siteNotice"><!-- CentralNotice --></div>
+</div>
+<div class="vector-column-start">
+<div class="vector-main-menu-container">
+<div id="mw-navigation">
+<nav aria-label="Site" class="vector-main-menu-landmark" id="mw-panel" role="navigation">
+<div class="vector-pinned-container" id="vector-main-menu-pinned-container">
+</div>
+</nav>
+</div>
+</div>
+</div>
+<div class="mw-content-container">
+<main class="mw-body" id="content" role="main">
+<header class="mw-body-header vector-page-titlebar">
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Companies listed on the New York Stock Exchange (G)</span></h1>
+<div class="vector-dropdown mw-portlet mw-portlet-lang" id="p-lang-btn">
+<input aria-haspopup="true" aria-label="Go to an article in another language. Available in 1 language" class="vector-dropdown-checkbox mw-interlanguage-selector" data-event-name="ui.dropdown-p-lang-btn" id="p-lang-btn-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-1" for="p-lang-btn-checkbox" id="p-lang-btn-label"><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+<span class="vector-dropdown-label-text">1 language</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Daftar_perusahaan_yang_tercatat_di_Bursa_Efek_New_York_(G)" hreflang="id" lang="id" title="Daftar perusahaan yang tercatat di Bursa Efek New York (G) – Indonesian"><span>Bahasa Indonesia</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5155417#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div>
+</div>
+</div>
+</div>
+</header>
+<div class="vector-page-toolbar">
+<div class="vector-page-toolbar-container">
+<div id="left-navigation">
+<nav aria-label="Namespaces">
+<div class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages" id="p-associated-pages">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected vector-tab-noicon mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(G)" title="View the content page [c]"><span>Article</span></a></li><li class="vector-tab-noicon mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/Talk:Companies_listed_on_the_New_York_Stock_Exchange_(G)" rel="discussion" title="Discuss improvements to the content page [t]"><span>Talk</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-dropdown emptyPortlet" id="p-variants">
+<input aria-haspopup="true" aria-label="Change language variant" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" for="p-variants-checkbox" id="p-variants-label"><span class="vector-dropdown-label-text">English</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-menu mw-portlet mw-portlet-variants emptyPortlet" id="p-variants">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<div class="vector-collapsible" id="right-navigation">
+<nav aria-label="Views">
+<div class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views" id="p-views">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected vector-tab-noicon mw-list-item" id="ca-view"><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(G)"><span>Read</span></a></li><li class="vector-tab-noicon mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Companies_listed_on_the_New_York_Stock_Exchange_(G)&amp;action=edit" title="Edit this page [e]"><span>Edit</span></a></li><li class="vector-tab-noicon mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=Companies_listed_on_the_New_York_Stock_Exchange_(G)&amp;action=history" title="Past revisions of this page [h]"><span>View history</span></a></li>
+</ul>
+</div>
+</div>
+</nav>
+<nav aria-label="Page tools" class="vector-page-tools-landmark">
+<div class="vector-dropdown vector-page-tools-dropdown" id="vector-page-tools-dropdown">
+<input aria-haspopup="true" aria-label="Tools" class="vector-dropdown-checkbox" data-event-name="ui.dropdown-vector-page-tools-dropdown" id="vector-page-tools-dropdown-checkbox" role="button" type="checkbox"/>
+<label aria-hidden="true" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" for="vector-page-tools-dropdown-checkbox" id="vector-page-tools-dropdown-label"><span class="vector-dropdown-label-text">Tools</span>
+</label>
+<div class="vector-dropdown-content">
+<div class="vector-unpinned-container" id="vector-page-tools-unpinned-container">
+<div class="vector-page-tools vector-pinnable-element" id="vector-page-tools">
+<div class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned" data-feature-name="page-tools-pinned" data-pinnable-element-id="vector-page-tools" data-pinned-container-id="vector-page-tools-pinned-container" data-unpinned-container-id="vector-page-tools-unpinned-container">
+<div class="vector-pinnable-header-label">Tools</div>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items" id="p-cactions" title="More options">
+<div class="vector-menu-heading">
+		Actions
+	</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected vector-more-collapsible-item mw-list-item" id="ca-more-view"><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(G)"><span>Read</span></a></li><li class="vector-more-collapsible-item mw-list-item" id="ca-more-edit"><a accesskey="e" href="/w/index.php?title=Companies_listed_on_the_New_York_Stock_Exchange_(G)&amp;action=edit" title="Edit this page [e]"><span>Edit</span></a></li><li class="vector-more-collapsible-item mw-list-item" id="ca-more-history"><a href="/w/index.php?title=Companies_listed_on_the_New_York_Stock_Exchange_(G)&amp;action=history"><span>View history</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-tb" id="p-tb">
+<div class="vector-menu-heading">
+		General
+	</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Companies_listed_on_the_New_York_Stock_Exchange_(G)" title="List of all English Wikipedia pages containing links to this page [j]"><span>What links here</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Companies_listed_on_the_New_York_Stock_Exchange_(G)" rel="nofollow" title="Recent changes in pages linked from this page [k]"><span>Related changes</span></a></li><li class="mw-list-item" id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]"><span>Upload file</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]"><span>Special pages</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=Companies_listed_on_the_New_York_Stock_Exchange_(G)&amp;oldid=1166946937" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=Companies_listed_on_the_New_York_Stock_Exchange_(G)&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Companies_listed_on_the_New_York_Stock_Exchange_%28G%29&amp;id=1166946937&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCompanies_listed_on_the_New_York_Stock_Exchange_%28G%29"><span>Get shortened URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCompanies_listed_on_the_New_York_Stock_Exchange_%28G%29"><span>Download QR code</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5155417" title="Structured data on this page hosted by Wikidata [g]"><span>Wikidata item</span></a></li>
+</ul>
+</div>
+</div>
+<div class="vector-menu mw-portlet mw-portlet-coll-print_export" id="p-coll-print_export">
+<div class="vector-menu-heading">
+		Print/export
+	</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Companies_listed_on_the_New_York_Stock_Exchange_%28G%29&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=Companies_listed_on_the_New_York_Stock_Exchange_(G)&amp;printable=yes" title="Printable version of this page [p]"><span>Printable version</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+<div class="vector-column-end">
+<div class="vector-sticky-pinned-container">
+<nav aria-label="Page tools" class="vector-page-tools-landmark">
+<div class="vector-pinned-container" id="vector-page-tools-pinned-container">
+</div>
+</nav>
+<nav aria-label="Appearance" class="vector-client-prefs-landmark">
+</nav>
+</div>
+</div>
+<div aria-labelledby="firstHeading" class="vector-body" data-mw-ve-target-container="" id="bodyContent">
+<div class="vector-body-before-content">
+<div class="mw-indicators">
+</div>
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+</div>
+<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><style data-mw-deduplicate="TemplateStyles:r1202157013">@media screen and (max-width:720px){body.skin-minerva .mw-parser-output div.toc{display:table}body.skin-minerva .mw-parser-output div.toc div.toctitle{visibility:visible}}</style><style data-mw-deduplicate="TemplateStyles:r1111373058">.mw-parser-output .toc-top-false-title{font-weight:bold;text-align:center}.mw-parser-output .toc-top .hlist ul{text-align:inherit}@media all and (min-width:720px){.mw-parser-output .toc-top{clear:left}.mw-parser-output .toc-top-left{float:left}.mw-parser-output .toc-top-right{float:right;clear:right}.mw-parser-output .toc-top-center{margin:auto;clear:none}}body.skin-vector-2022 .mw-parser-output .toc-top{padding:7px}body.skin-vector-2022 .mw-parser-output .toc-top #toc-title-text{border-bottom:0;margin-top:0;font-weight:bold;text-align:center}</style><div aria-labelledby="toc-title-text-template" class="toc plainlinks toc-top" id="toc" role="navigation">
+<div class="toctitle"><h2 id="toc-title-text"><span class="mw-headline" id="Companies_listed_on_the_New_York_Stock_Exchange"><a class="mw-redirect" href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange" title="Companies listed on the New York Stock Exchange">Companies listed on the New York Stock Exchange</a></span></h2></div>
+<style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><div class="hlist">
+<div style="text-align: center;">
+<ul><li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(0%E2%80%939)" title="Companies listed on the New York Stock Exchange (0–9)">0–9</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(A)" title="Companies listed on the New York Stock Exchange (A)">A</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(B)" title="Companies listed on the New York Stock Exchange (B)">B</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(C)" title="Companies listed on the New York Stock Exchange (C)">C</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(D)" title="Companies listed on the New York Stock Exchange (D)">D</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(E)" title="Companies listed on the New York Stock Exchange (E)">E</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(F)" title="Companies listed on the New York Stock Exchange (F)">F</a></li>
+<li><a class="mw-selflink selflink">G</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(H)" title="Companies listed on the New York Stock Exchange (H)">H</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(I)" title="Companies listed on the New York Stock Exchange (I)">I</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(J)" title="Companies listed on the New York Stock Exchange (J)">J</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(K)" title="Companies listed on the New York Stock Exchange (K)">K</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(L)" title="Companies listed on the New York Stock Exchange (L)">L</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(M)" title="Companies listed on the New York Stock Exchange (M)">M</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(N)" title="Companies listed on the New York Stock Exchange (N)">N</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(O)" title="Companies listed on the New York Stock Exchange (O)">O</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(P)" title="Companies listed on the New York Stock Exchange (P)">P</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(Q)" title="Companies listed on the New York Stock Exchange (Q)">Q</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(R)" title="Companies listed on the New York Stock Exchange (R)">R</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(S)" title="Companies listed on the New York Stock Exchange (S)">S</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(T)" title="Companies listed on the New York Stock Exchange (T)">T</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(U)" title="Companies listed on the New York Stock Exchange (U)">U</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(V)" title="Companies listed on the New York Stock Exchange (V)">V</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(W)" title="Companies listed on the New York Stock Exchange (W)">W</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(X)" title="Companies listed on the New York Stock Exchange (X)">X</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(Y)" title="Companies listed on the New York Stock Exchange (Y)">Y</a></li>
+<li><a href="/wiki/Companies_listed_on_the_New_York_Stock_Exchange_(Z)" title="Companies listed on the New York Stock Exchange (Z)">Z</a></li></ul>
+</div>
+</div></div>
+<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Companies_listed_on_the_New_York_Stock_Exchange_(G)&amp;action=edit&amp;section=1" title="Edit section: G"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div class="hatnote navigation-not-searchable" role="note">This list is complete and up to date as of <span class="nowrap">August 2014</span>.</div>
+<table style="background:transparent;">
+<tbody><tr>
+<th>Stock name
+</th>
+<th>Symbol
+</th>
+<th>Country of origin
+</th></tr>
+<tr>
+<td>The Gabelli Convertible and Income Securities Fund, Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GCV" rel="nofollow">GCV</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>The Gabelli Convertible and Income Securities Fund, Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GCVpB" rel="nofollow">GCV.PRB</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>The Gabelli Dividend &amp; Income Trust
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GDV" rel="nofollow">GDV</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>The Gabelli Dividend &amp; Income Trust
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GDVpA" rel="nofollow">GDV.PRA</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>The Gabelli Dividend &amp; Income Trust
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GDVpD" rel="nofollow">GDV.PRD</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>The Gabelli Equity Trust Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GAB" rel="nofollow">GAB</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>The Gabelli Equity Trust Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GABpD" rel="nofollow">GAB.PRD</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>The Gabelli Equity Trust Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GABpG" rel="nofollow">GAB.PRG</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>The Gabelli Equity Trust Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GABpH" rel="nofollow">GAB.PRH</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>The Gabelli Global Small and Mid Cap Value Trust
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GGZ" rel="nofollow">GGZ</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>The Gabelli Healthcare &amp; Wellness Rx Trust
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GRX" rel="nofollow">GRX</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>The Gabelli Healthcare &amp; Wellness Rx Trust
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GRXpA" rel="nofollow">GRX.PRA</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>The Gabelli Multimedia Trust Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GGT" rel="nofollow">GGT</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>The Gabelli Multimedia Trust Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GGTpB" rel="nofollow">GGT.PRB</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>The Gabelli Utility Trust
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GUT" rel="nofollow">GUT</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>The Gabelli Utility Trust
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GUTpA" rel="nofollow">GUT.PRA</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Gafisa" title="Gafisa">Gafisa S.A.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GFA" rel="nofollow">GFA</a>
+</td>
+<td><a href="/wiki/Brazil" title="Brazil">Brazil</a>
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Gain_Capital" title="Gain Capital">GAIN Capital Holdings, Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GCAP" rel="nofollow">GCAP</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/GAMCO_Investors" title="GAMCO Investors">Gamco Investors, Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GBL" rel="nofollow">GBL</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>GAMCO Natural Resources, Gold &amp; Income Trust
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GNT" rel="nofollow">GNT</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/GameStop" title="GameStop">GameStop Corp.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GME" rel="nofollow">GME</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Gannett_Company" title="Gannett Company">Gannett Co., Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GCI" rel="nofollow">GCI</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Gap_Inc." title="Gap Inc.">The Gap, Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GPS" rel="nofollow">GPS</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Gartner" title="Gartner">Gartner Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:IT" rel="nofollow">IT</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>GasLog Ltd.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GLOG" rel="nofollow">GLOG</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>GasLog Partners LP
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GLOP" rel="nofollow">GLOP</a>
+</td>
+<td><a href="/wiki/Marshall_Islands" title="Marshall Islands">Marshall Islands</a>
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/General_American_Transportation_Corporation" title="General American Transportation Corporation">Gatx Corporation</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GMT" rel="nofollow">GMT</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Gazit-Globe" title="Gazit-Globe">Gazit-Globe Ltd.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GZT" rel="nofollow">GZT</a>
+</td>
+<td><a href="/wiki/Israel" title="Israel">Israel</a>
+</td></tr>
+<tr>
+<td>The GDL Fund
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GDL" rel="nofollow">GDL</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>The GDL Fund
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GDLpB" rel="nofollow">GDL.PRB</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/GenCorp" title="GenCorp">Gencorp Inc</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GY" rel="nofollow">GY</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Generac_Power_Systems" title="Generac Power Systems">Generac Holdings Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GNRC" rel="nofollow">GNRC</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/General_American_Investors_Company" title="General American Investors Company">General American Investors Company, Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GAM" rel="nofollow">GAM</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>General American Investors Company, Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GAMpB" rel="nofollow">GAM.PRB</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/General_Cable" title="General Cable">General Cable Corporation</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:BGC" rel="nofollow">BGC</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/General_Dynamics" title="General Dynamics">General Dynamics Corporation</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GD" rel="nofollow">GD</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/General_Electric" title="General Electric">General Electric Company</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GE" rel="nofollow">GE</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>General Electric Capital Company
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GEB" rel="nofollow">GEB</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>General Electric Capital Corporation
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GEH" rel="nofollow">GEH</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>General Electric Capital Corporation
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GEK" rel="nofollow">GEK</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/General_Mills" title="General Mills">General Mills, Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GIS" rel="nofollow">GIS</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/General_Motors" title="General Motors">General Motors Company</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GM" rel="nofollow">GM</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>General Motors Company
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GM.WS.A" rel="nofollow">GM.WS.A</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>General Motors Company
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GM.WS.B" rel="nofollow">GM.WS.B</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>General Motors Company
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GM.WS.C" rel="nofollow">GM.WS.C</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>General Steel Holdings, Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GSI" rel="nofollow">GSI</a>
+</td>
+<td><a href="/wiki/China" title="China">China</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Genesco" title="Genesco">Genesco Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GCO" rel="nofollow">GCO</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Genesee_%26_Wyoming" title="Genesee &amp; Wyoming">Genesee &amp; Wyoming, Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GWR" rel="nofollow">GWR</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Genesee &amp; Wyoming, Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GWRU" rel="nofollow">GWRU</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Genesis Energy, L.P.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GEL" rel="nofollow">GEL</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Genie_Energy" title="Genie Energy">Genie Energy Ltd.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GNE" rel="nofollow">GNE</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Genie Energy Ltd.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GNEpA" rel="nofollow">GNE.PRA</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Genpact" title="Genpact">Genpact Limited</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:G" rel="nofollow">G</a>
+</td>
+<td><a href="/wiki/India" title="India">India</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Genuine_Parts_Company" title="Genuine Parts Company">Genuine Parts Company</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GPC" rel="nofollow">GPC</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Genworth_Financial" title="Genworth Financial">Genworth Financial, Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GNW" rel="nofollow">GNW</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/GEO_Group" title="GEO Group">Geo Group, Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GEO" rel="nofollow">GEO</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>GeoPark Limited
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GPRK" rel="nofollow">GPRK</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Georgia_Power" title="Georgia Power">Georgia Power Company</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GPEpA" rel="nofollow">GPE.PRA</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Gerdau" title="Gerdau">Gerdau S.A.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GGB" rel="nofollow">GGB</a>
+</td>
+<td><a href="/wiki/Brazil" title="Brazil">Brazil</a>
+</td></tr>
+<tr>
+<td>Getty Realty Corp.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GTY" rel="nofollow">GTY</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/GFI_Group" title="GFI Group">GFI Group Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GFIG" rel="nofollow">GFIG</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Gigamon Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GIMO" rel="nofollow">GIMO</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Gildan_Activewear" title="Gildan Activewear">Gildan Activewear Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GIL" rel="nofollow">GIL</a>
+</td>
+<td><a href="/wiki/Canada" title="Canada">Canada</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Glatfelter" title="Glatfelter">Glatfelter</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GLT" rel="nofollow">GLT</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/GlaxoSmithKline" title="GlaxoSmithKline">GlaxoSmithKline</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GSK" rel="nofollow">GSK</a>
+</td>
+<td><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Glimcher_Realty_Trust" title="Glimcher Realty Trust">Glimcher Realty Trust</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GRT" rel="nofollow">GRT</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Glimcher Realty Trust
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GRTpG" rel="nofollow">GRT.PRG</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Glimcher Realty Trust
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GRTpH" rel="nofollow">GRT.PRH</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Glimcher Realty Trust
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GRTpI" rel="nofollow">GRT.PRI</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Global Brass and Copper Holdings, Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:BRSS" rel="nofollow">BRSS</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Global Cash Access Holdings
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GCA" rel="nofollow">GCA</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Global High Income Fund, Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GHI" rel="nofollow">GHI</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Global_Partners" title="Global Partners">Global Partners LP</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GLP" rel="nofollow">GLP</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Global_Payments" title="Global Payments">Global Payments Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GPN" rel="nofollow">GPN</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Global Power Equipment Group, Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GLPW" rel="nofollow">GLPW</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Global Ship Lease, Inc
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GSL" rel="nofollow">GSL</a>
+</td>
+<td><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>
+</td></tr>
+<tr>
+<td>Globus Medical, Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GMED" rel="nofollow">GMED</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>GMAC Capital Trust I
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:ALLYpA" rel="nofollow">ALLY.PRA</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/GNC_(store)" title="GNC (store)">GNC Holdings, Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GNC" rel="nofollow">GNC</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Gol_Transportes_A%C3%A9reos" title="Gol Transportes Aéreos">GOL Linhas Aéreas Inteligentes S.A.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GOL" rel="nofollow">GOL</a>
+</td>
+<td><a href="/wiki/Brazil" title="Brazil">Brazil</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gold_Fields" title="Gold Fields">Gold Fields Limited</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GFI" rel="nofollow">GFI</a>
+</td>
+<td><a href="/wiki/South_Africa" title="South Africa">South Africa</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Goldcorp" title="Goldcorp">Goldcorp Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GG" rel="nofollow">GG</a>
+</td>
+<td><a href="/wiki/Canada" title="Canada">Canada</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Goldman_Sachs" title="Goldman Sachs">Goldman Sachs Group Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GS" rel="nofollow">GS</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Goldman Sachs Group Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GSF" rel="nofollow">GSF</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Goldman Sachs Group Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GSJ" rel="nofollow">GSJ</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Goldman Sachs Group Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GSpA" rel="nofollow">GS.PRA</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Goldman Sachs Group Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GSpB" rel="nofollow">GS.PRB</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Goldman Sachs Group Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GSpC" rel="nofollow">GS.PRC</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Goldman Sachs Group Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GSpD" rel="nofollow">GS.PRD</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Goldman Sachs Group Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GSpI" rel="nofollow">GS.PRI</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Goldman Sachs Group Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GSpJ" rel="nofollow">GS.PRJ</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Goldman Sachs Group Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GSpK" rel="nofollow">GS.PRK</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Goldman Sachs MLP Income Opportunities Fund
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GMZ" rel="nofollow">GMZ</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Goodrich Petroleum Corporation
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GDP" rel="nofollow">GDP</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Goodrich Petroleum Corporation
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GDPpC" rel="nofollow">GDP.PRC</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Goodrich Petroleum Corporation
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GDPpD" rel="nofollow">GDP.PRD</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Government Properties Income Trust
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GOV" rel="nofollow">GOV</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Bank_of_Ireland" title="Bank of Ireland">The Governor and Company of the Bank of Ireland</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:IRE" rel="nofollow">IRE</a>
+</td>
+<td><a href="/wiki/Ireland" title="Ireland">Ireland</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/GP_Strategies_Corporation" title="GP Strategies Corporation">GP Strategies Corporation</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GPX" rel="nofollow">GPX</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Graco_(fluid_handling)" title="Graco (fluid handling)">Graco Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GGG" rel="nofollow">GGG</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/GrafTech" title="GrafTech">Graftech International, Ltd.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GTI" rel="nofollow">GTI</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Graham Corporation
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GHM" rel="nofollow">GHM</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Graham_Holdings_Company" title="Graham Holdings Company">Graham Holdings Company</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GHC" rel="nofollow">GHC</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Gramercy Property Trust Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GPT" rel="nofollow">GPT</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Gramercy Property Trust Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GPTpA" rel="nofollow">GPT.PRA</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Granite_Construction" title="Granite Construction">Granite Construction, Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GVA" rel="nofollow">GVA</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Granite_Real_Estate" title="Granite Real Estate">Granite Real Estate Investment Trust</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GRP.U" rel="nofollow">GRP.U</a>
+</td>
+<td><a href="/wiki/Canada" title="Canada">Canada</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Graphic_Packaging" title="Graphic Packaging">Graphic Packaging Holding Company</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GPK" rel="nofollow">GPK</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Gray_Television" title="Gray Television">Gray Television, Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GTN" rel="nofollow">GTN</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Gray Television, Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GTN.A" rel="nofollow">GTN.A</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Gran%C3%A3_y_Montero" title="Granã y Montero">Graña y Montero S.A.A.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GRAM" rel="nofollow">GRAM</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Great Northern Iron Ore Properties
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GNI" rel="nofollow">GNI</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Great_Plains_Energy" title="Great Plains Energy">Great Plains Energy Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GXP" rel="nofollow">GXP</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Great Plains Energy Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GXPpA" rel="nofollow">GXP.PRA</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Great Plains Energy Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GXPpD" rel="nofollow">GXP.PRD</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Great Plains Energy Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GXPpE" rel="nofollow">GXP.PRE</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Greatbatch, Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GB" rel="nofollow">GB</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Green_Dot_Corporation" title="Green Dot Corporation">Green Dot Corporation</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GDOT" rel="nofollow">GDOT</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/The_Greenbrier_Companies" title="The Greenbrier Companies">The Greenbrier Companies, Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GBX" rel="nofollow">GBX</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Greenhill &amp; Co., Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GHL" rel="nofollow">GHL</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Greif, Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GEF" rel="nofollow">GEF</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Greif, Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GEF.B" rel="nofollow">GEF.B</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Griffon_Corporation" title="Griffon Corporation">Griffon Corporation</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GFF" rel="nofollow">GFF</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Group_1_Automotive" title="Group 1 Automotive">Group 1 Automotive Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GPI" rel="nofollow">GPI</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/GrubHub" title="GrubHub">GrubHub Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GRUB" rel="nofollow">GRUB</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Gruma" title="Gruma">GRUMA, S.A.B. de C.V.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GMK" rel="nofollow">GMK</a>
+</td>
+<td><a href="/wiki/Mexico" title="Mexico">Mexico</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Grupo_Aeroportuario_del_Pac%C3%ADfico" title="Grupo Aeroportuario del Pacífico">Grupo Aeroportuario del Pacifico, S.A.B de C.V.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:PAC" rel="nofollow">PAC</a>
+</td>
+<td><a href="/wiki/Mexico" title="Mexico">Mexico</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Grupo_Aeroportuario_del_Sureste" title="Grupo Aeroportuario del Sureste">Grupo Aeroportuario del Sureste, S.A.B. de C.V.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:ASR" rel="nofollow">ASR</a>
+</td>
+<td><a href="/wiki/Mexico" title="Mexico">Mexico</a>
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Banco_Santander_(Mexico)" title="Banco Santander (Mexico)">Grupo Financiero Santander Mexico, S.A.B. de C.V.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:BSMX" rel="nofollow">BSMX</a>
+</td>
+<td><a href="/wiki/Mexico" title="Mexico">Mexico</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Televisa" title="Televisa">Grupo Televisa, S.A.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:TV" rel="nofollow">TV</a>
+</td>
+<td><a href="/wiki/Mexico" title="Mexico">Mexico</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Guangshen_Railway_(company)" title="Guangshen Railway (company)">Guangshen Railway Co., Ltd.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GSH" rel="nofollow">GSH</a>
+</td>
+<td><a href="/wiki/China" title="China">China</a>
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Guess_(clothing)" title="Guess (clothing)">Guess?, Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GES" rel="nofollow">GES</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Guggenheim Build America Bonds Managed Duration Trust
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GBAB" rel="nofollow">GBAB</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Guggenheim Credit Allocation Fund
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GGM" rel="nofollow">GGM</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Guggenheim Enhanced Equity Income Fund
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GPM" rel="nofollow">GPM</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Guggenheim Enhanced Equity Strategy Fund
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GGE" rel="nofollow">GGE</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Guggenheim Equal Weight Enhanced Equity Income Fund
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GEQ" rel="nofollow">GEQ</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>Guggenheim Strategic Opportunities Fund Common Shares
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GOF" rel="nofollow">GOF</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Guidewire_Software" title="Guidewire Software">Guidewire Software, Inc.</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GWRE" rel="nofollow">GWRE</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td><a href="/wiki/Gulf_Power_Company" title="Gulf Power Company">Gulf Power Company</a>
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GUA" rel="nofollow">GUA</a>
+</td>
+<td>US
+</td></tr>
+<tr>
+<td>GulfMark Offshore, Inc.
+</td>
+<td><a class="external text" href="https://www.nyse.com/quote/XNYS:GLF" rel="nofollow">GLF</a>
+</td>
+<td>US
+</td></tr>
+</tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw2359
+Cached time: 20240202064621
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [no‐toc]
+CPU time usage: 0.220 seconds
+Real time usage: 0.261 seconds
+Preprocessor visited node count: 1942/1000000
+Post‐expand include size: 24936/2097152 bytes
+Template argument size: 7137/2097152 bytes
+Highest expansion depth: 12/100
+Expensive parser function count: 28/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3702/5000000 bytes
+Lua time usage: 0.072/10.000 seconds
+Lua memory usage: 2161307/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  211.128      1 -total
+ 46.71%   98.609    141 Template:Nyse1
+ 33.04%   69.750      1 Template:A-Z_multipage_list
+ 16.48%   34.799      1 Template:TOC_top
+ 15.94%   33.650      1 Template:Complete_list
+ 13.04%   27.533      1 Template:Flatlist
+  9.98%   21.070     32 Template:A-Z_multipage_list/item
+  5.37%   11.336      1 Template:Hatnote
+  4.83%   10.198      1 Template:DMCA
+  3.71%    7.837      1 Template:Dated_maintenance_category
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4371942-0!canonical and timestamp 20240202064621 and revision id 1166946937. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img alt="" height="1" src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" width="1"/></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Companies_listed_on_the_New_York_Stock_Exchange_(G)&amp;oldid=1166946937">https://en.wikipedia.org/w/index.php?title=Companies_listed_on_the_New_York_Stock_Exchange_(G)&amp;oldid=1166946937</a>"</div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Category</a>: <ul><li><a href="/wiki/Category:Lists_of_companies_listed_on_the_New_York_Stock_Exchange" title="Category:Lists of companies listed on the New York Stock Exchange">Lists of companies listed on the New York Stock Exchange</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden category: <ul><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_August_2014" title="Category:Articles containing potentially dated statements from August 2014">Articles containing potentially dated statements from August 2014</a></li></ul></div></div>
+</div>
+</main>
+</div>
+<div class="mw-footer-container">
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 24 July 2023, at 19:24<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" rel="license">Creative Commons Attribution-ShareAlike License 4.0</a><a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Companies_listed_on_the_New_York_Stock_Exchange_(G)&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+</div>
+</div>
+</div>
+<div class="vector-settings" id="p-dock-bottom">
+<ul>
+<li>
+<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+<span>Toggle limited content width</span>
+</button>
+</li>
+</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-5c64554744-q6nf5","wgBackendResponseTime":187,"wgPageParseReport":{"limitreport":{"cputime":"0.220","walltime":"0.261","ppvisitednodes":{"value":1942,"limit":1000000},"postexpandincludesize":{"value":24936,"limit":2097152},"templateargumentsize":{"value":7137,"limit":2097152},"expansiondepth":{"value":12,"limit":100},"expensivefunctioncount":{"value":28,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3702,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  211.128      1 -total"," 46.71%   98.609    141 Template:Nyse1"," 33.04%   69.750      1 Template:A-Z_multipage_list"," 16.48%   34.799      1 Template:TOC_top"," 15.94%   33.650      1 Template:Complete_list"," 13.04%   27.533      1 Template:Flatlist","  9.98%   21.070     32 Template:A-Z_multipage_list/item","  5.37%   11.336      1 Template:Hatnote","  4.83%   10.198      1 Template:DMCA","  3.71%    7.837      1 Template:Dated_maintenance_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.072","limit":"10.000"},"limitreport-memusage":{"value":2161307,"limit":52428800}},"cachereport":{"origin":"mw2359","timestamp":"20240202064621","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Companies listed on the New York Stock Exchange (G)","url":"https:\/\/en.wikipedia.org\/wiki\/Companies_listed_on_the_New_York_Stock_Exchange_(G)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5155417","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5155417","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-03-12T23:14:40Z","dateModified":"2023-07-24T19:24:55Z","headline":"Wikimedia list article"}</script>
+</body>
+</html>
