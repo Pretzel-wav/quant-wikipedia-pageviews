@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 import requests
-import json
 import os
 
 def _make_soup(url, out_path):
