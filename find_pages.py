@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import os
+import csv
 
 def _make_soup(url, out_path):
     print(f'Writing soup from {url} to {out_path}')
@@ -110,10 +111,10 @@ for nasdaq_name, nasdaq_url in nasdaq_dict.items():
         if data['name'] and nasdaq_name.lower() in data['name'].lower():
             data['url'] = nasdaq_url
 
-print('After NASDAQ')
-symbols_with_url = [symbol for symbol, data in symbol_dict.items() if data['url']]
-symbols_without_url = [symbol for symbol, data in symbol_dict.items() if not data['url']]
-print(f'Symbols with url: {len(symbols_with_url)}')
-print(f'Symbols without url: {len(symbols_without_url)}')
-
-print({symbol: data for symbol, data in symbol_dict.items() if not data['url']})
+# Write symbol_dict to CSV
+with open('company_info.csv', 'w', newline='', encoding='utf-8') as csvfile:
+    fieldnames = ['Symbol', 'Name', 'URL']
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    writer.writeheader()
+    for symbol, data in symbol_dict.items():
+        writer.writerow({'Symbol': symbol, 'Name': data['name'], 'URL': data['url']})
